@@ -1,9 +1,9 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
+  "url": "https://hoverboard-v1.firebaseapp.com/",
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
-    "prod": "UA-43643469-8",
+    "prod": "UA-43643469-14",
     "dev": "UA-43643469-9"
   },
   "organizer": {
@@ -16,10 +16,10 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "hoverboard-v1",
+    "domain": "hoverboard-v1.firebaseapp.com",
+    "database": "https://hoverboard-v1.firebaseio.com",
+    "api": "AIzaSyBjLhKRm1yyjV0RIQSBwwjIrktNdOVes1E",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
