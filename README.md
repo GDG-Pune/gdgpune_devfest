@@ -29,7 +29,8 @@ Our goal is to allow event organizers to set up professional conference website 
 | **Blog** | post announcements, updates and useful information |
 
 ## Getting Started
-1. [Fork repository](https://github.com/gdg-x/hoverboard/fork) and clone your fork locally
+1. Clone repository 
+    git clone https://github.com/GDG-Pune/gdgpune_devfest.git
 1. Install [Node.js (v10+)](https://nodejs.org/en/download/)
 1. Install project dependencies: `npm install` or `yarn`
 1. Create [Firebase account](https://console.firebase.google.com) and login into [Firebase CLI](https://firebase.google.com/docs/cli/): `npx firebase login`
