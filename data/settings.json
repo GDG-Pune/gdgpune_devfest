@@ -1,9 +1,9 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
+    "name": "GDG Pune",
+    "twitter": "GDGPune",
     "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "url": "https://www.meetup.com/Pune-GDG/"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
@@ -149,15 +149,15 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/Pune-GDG/events/past/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/gdgpune/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/GDGPune"
       },
       {
         "name": "instagram",
@@ -165,7 +165,7 @@
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UCWjodTrsdRBOUyTuYo2l4Og"
       }
     ],
     "share": [
@@ -179,7 +179,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "gdgwtmpune@gmail.com",
   "signInProviders": {
     "providersData": [
       {
