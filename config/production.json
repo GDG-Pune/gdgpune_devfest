@@ -1,15 +1,15 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-master.firebaseapp.com/",
+  "url": "https://gdg-pune-devfest19.firebaseapp.com/",
   "analytics": "UA-43643469-9",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
-    "authDomain": "hoverboard-master.firebaseapp.com",
-    "databaseURL": "https://hoverboard-master.firebaseio.com",
-    "projectId": "hoverboard-master",
-    "storageBucket": "hoverboard-master.appspot.com",
-    "messagingSenderId": "516409946568"
+    "apiKey": "AIzaSyA4ZrOVS0si11xG5697o_p6hUw94hgP1cc",
+    "authDomain": "gdg-pune-devfest19.firebaseapp.com",
+    "databaseURL": "https://gdg-pune-devfest19.firebaseio.com",
+    "projectId": "gdg-pune-devfest19",
+    "storageBucket": "gdg-pune-devfest19.appspot.com",
+    "messagingSenderId": "512197864231"
   },
   "googleMapApiKey": ""
 }
