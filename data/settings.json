@@ -1,9 +1,8 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "name": "GDG Pune",
+    "twitter": "gdgpune",
+    "url": "https://gdg-pune-devfest19.firebaseapp.com"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
@@ -15,7 +14,7 @@
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "DevFest19",
   "disabledSchedule": false,
   "showSessionShortAbstract": true,
   "navigation": [
@@ -25,24 +24,19 @@
       "label": "Home"
     },
     {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Speakers"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Schedule"
-    },
-    {
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
     },
     {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
+      "route": "callforspeakers",
+      "permalink": "http://bit.ly/CFPDevFestPune2019",
+      "label": "Call For Speakers"
+    },
+    {
+      "route": "cod",
+      "permalink": "/cod/",
+      "label": "Code of Conduct"
     }
   ],
   "heroSettings": {
@@ -53,14 +47,6 @@
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
-    },
-    "blog": {
-      "title": "Blog",
-      "metaDescription": "Read stories from our team",
-      "background": {
-        "color": "#FFF"
-      },
-      "fontColor": "#424242"
     },
     "speakers": {
       "title": "Speakers",
@@ -115,19 +101,19 @@
   "location": {
     "label": "Location",
     "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "city": "Pune",
+    "short": "Pune, Maharashtra",
+    "address": "The Westin Pune Koregaon Park, Mundhwa Rd, Koregaon Park Annexe",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": 18.5392225,
+      "longitude": 73.9059254,
+      "zoom": 8
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 18,
+      "longitude": 74
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Westin Pune is a reknowned venue in Pune, which can fulfill the needs of the large-scale event"
   },
   "mediaQueries": {
     "xs": {
@@ -149,23 +135,19 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/Pune-GDG/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/gdgpune/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://twitter.com/GDGPune"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UCWjodTrsdRBOUyTuYo2l4Og"
       }
     ],
     "share": [
@@ -179,7 +161,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "gdgwtmpune@gmail.com",
   "signInProviders": {
     "providersData": [
       {
@@ -208,9 +190,6 @@
     "schedule": {
       "itemsCount": 2
     },
-    "blog": {
-      "itemsCount": 3
-    },
     "speakers": {
       "itemsCount": 4
     },
@@ -218,7 +197,7 @@
       "itemsCount": 6
     },
     "tickets": {
-      "itemsCount": 5
+      "itemsCount": 3
     }
   }
 }
