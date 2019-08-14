@@ -1,10 +1,10 @@
 {
   "basepath": "/",
-  "url": "https://gdg-pune-devfest19.firebaseapp.com/",
+  "url": "https://hoverboard-dev.firebaseapp.com/",
   "analytics": "UA-43643469-9",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyA4ZrOVS0si11xG5697o_p6hUw94hgP1cc",
+    "apiKey": "AIzaSyDvmYxuI9OjdbzPU_7ZeWgblJOCnrMFR2A",
     "authDomain": "gdg-pune-devfest19.firebaseapp.com",
     "databaseURL": "https://gdg-pune-devfest19.firebaseio.com",
     "projectId": "gdg-pune-devfest19",

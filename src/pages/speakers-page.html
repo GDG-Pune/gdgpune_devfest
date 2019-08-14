@@ -173,8 +173,12 @@
     </hero-block>
 
     <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>
-
-    <filter-menu
+    <br><br>
+    <center>
+      <div>At DevFest we present to you the best of content that we can deliver. Have patience, good things take time.</div>
+    </center>
+    <br><br>
+    <!-- <filter-menu
       filters="[[_filters]]"
       selected="[[_selectedFilters]]"
       results-count="[[speakersToRender.length]]"
@@ -190,9 +194,9 @@
       box-shadow="var(--box-shadow)"
       items-count="{$ contentLoaders.speakers.itemsCount $}"
       hidden$="[[contentLoaderVisibility]]"
-    ></content-loader>
+    ></content-loader> -->
 
-    <div class="container">
+    <!-- <div class="container">
       <template
         is="dom-repeat"
         items="[[speakersToRender]]"
@@ -256,7 +260,7 @@
 
         </a>
       </template>
-    </div>
+    </div> -->
 
     <previous-speakers-block></previous-speakers-block>
 
