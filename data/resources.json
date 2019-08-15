@@ -13,7 +13,7 @@
   "buyTicket": "Buy ticket",
   "signIn": "Sign in",
   "signOut": "Sign out",
-  "viewHighlights": "See how it was done last time",
+  "viewHighlights": "Watch the story of DevFest",
   "offlineMessage": "You can still work offline.",
   "cachingComplete": "Caching complete! Future visits will work offline.",
   "newVersionAvailable": "A new version of this app is available.",
@@ -60,11 +60,6 @@
           "name": "Call for Volunteers",
           "url": "http://bit.ly/DevFestPune2019Volunteers",
           "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
         }
       ]
     }
@@ -148,7 +143,7 @@
     "description": "Last year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://photos.app.goo.gl/R56qbwaWhmNRLz738"
+      "link": "https://photos.app.goo.gl/g5rwCfUU1VX9bmdo9"
     }
   },
   "mapBlock": {
@@ -205,7 +200,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='https://meetup.com/Pune-GDG/' target='_blank'>GDG Pune</a> with support of 10 GDGs from all around Pune is proud organizer of DevFest Pune",
+        "description": "<a href='https://meetup.com/Pune-GDG/' target='_blank'>GDG Pune</a> is a group of tech-savvy developers who love to meet and host meetups to introduce new technologies and discussing existing technologies.",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
