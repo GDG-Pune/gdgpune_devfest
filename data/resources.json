@@ -75,7 +75,7 @@
       "howItWas": {
         "description": "Described by many as 'Google I/O of Pune', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
         "label": "See how it was in 2018",
-        "youtubeId": "qp1hk6odjQs"
+        "youtubeId": "hTJ_-MxHKMY"
       }
     },
     "statisticsBlock": {
@@ -167,7 +167,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Pune](https://meetup.com/Pune-GDG/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Pune](https://meetup.com/Pune-GDG/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with the audience to boost development of IT."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -200,7 +200,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='https://meetup.com/Pune-GDG/' target='_blank'>GDG Pune</a> is a group of tech-savvy developers who love to meet and host meetups to introduce new technologies and discussing existing technologies.",
+        "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe. DevFest Pune is organized by <a href='https://meetup.com/Pune-GDG/'>Google Developer Group Pune</a>. Describe by many as one of the amazing community conference by the developers and for the developers. Our goal is to organize space to connect the best industry experts with Pune audience to boost development of IT.",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
