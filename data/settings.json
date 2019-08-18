@@ -39,11 +39,6 @@
       "label": "Team"
     },
     {
-      "route": "callforspeakers",
-      "permalink": "http://bit.ly/CFPDevFestPune2019",
-      "label": "Call For Speakers"
-    },
-    {
       "route": "cod",
       "permalink": "/cod/",
       "label": "Code of Conduct"
