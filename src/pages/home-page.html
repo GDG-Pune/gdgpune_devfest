@@ -23,6 +23,10 @@
         height: 100%;
       }
 
+      paper-button{
+        font-size: 12px!important;
+      }
+
       hero-block {
         font-size: 24px;
         text-align: center;
@@ -150,7 +154,7 @@
 
 
         <div class="action-buttons" layout horizontal center-justified wrap>
-          <paper-button
+          <!-- <paper-button
             class="watch-video"
             on-tap="_playVideo"
             ga-on="click"
@@ -160,7 +164,31 @@
           >
             <iron-icon icon="hoverboard:movie"></iron-icon>
             {$ viewHighlights $}
+          </paper-button> -->
+          <a target="_blank" href="http://bit.ly/CFPDevFestPune2019">
+          <paper-button
+            ga-on="click"
+            ga-event-category="video"
+            ga-event-action="watch"
+            ga-event-label="hero block - view highlights"
+            primary event
+          >
+            <iron-icon icon="hoverboard:website"></iron-icon>
+            {$ callSpeaker $}
           </paper-button>
+          </a>
+          <a target="_blank" href="http://bit.ly/DevFestPune2019Volunteers">
+          <paper-button
+            ga-on="click"
+            ga-event-category="video"
+            ga-event-action="watch"
+            ga-event-label="hero block - view highlights"
+            primary invert
+          >
+            <iron-icon icon="hoverboard:website"></iron-icon>
+            {$ callVolunteer $}
+          </paper-button>
+          </a>
           <!-- <paper-button
             on-tap="_scrollToTickets"
             ga-on="click"
