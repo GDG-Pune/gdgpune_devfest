@@ -67,15 +67,15 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "What is DevFest?",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Pune brings together the world class experts in Android, Web and Cloud technologies to Pune for a day full of sessions, workshops and showcases."
+        "description": "Google Developer Group DevFests are the largest Google related events in the world! Each DevFest is carefully crafted for you by local GDG community to bring in awesome speakers from all over the world, great topics, and lots fun!"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Pune', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2018",
-        "youtubeId": "hTJ_-MxHKMY"
+        "description": "GDG DevFest Pune brings together the world class experts in Android, Web and Cloud technologies to Pune for a day full of sessions, workshops and showcases. Described by many as one of the amazing community conference for the developers, by the developers.",
+        "label": "Read more about DevFest",
+        "link": "https://devfest.withgoogle.com/"
       }
     },
     "statisticsBlock": {
@@ -125,7 +125,7 @@
     "previousYear": "Year"
   },
   "speakersBlock": {
-    "title": "Rockstar speakers",
+    "title": "Featured Speakers",
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers/"
@@ -196,7 +196,7 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "https://secure.meetupstatic.com/photos/event/e/9/c/2/600_453959842.jpeg",
+    "image": "/images/organizers.jpg",
     "blocks": [
       {
         "title": "Organizer",

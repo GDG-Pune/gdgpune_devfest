@@ -24,6 +24,16 @@
       "label": "Home"
     },
     {
+      "route": "speakers",
+      "permalink": "/speakers/",
+      "label": "Speakers"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/",
+      "label": "Schedule"
+    },
+    {
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
@@ -41,25 +51,17 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "From the community, to the community!",
       "background": {
         "color": "#42a8ff",
-        "image": "/images/backgrounds/home.png"
+        "image": "/images/backgrounds/background.jpeg"
       },
       "fontColor": "#FFF"
     },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "background": {
-        "color": "#FFF"
-      },
-      "fontColor": "#424242"
-    },
-    "previousSpeakers": {
-      "title": "Previous Speakers",
-      "metaDescription": "Check who was with us last years",
+      "metaDescription": "This year's DevFest will host a wide array of speakers from various technology domains. Meet them during the conference and build your network, clarify your doubts and enhance your expertise.",
+      "description": "This year's DevFest will host a wide array of speakers from various technology domains. Meet them during the conference and build your network, clarify your doubts and enhance your expertise.",
       "background": {
         "color": "#FFF"
       },

@@ -79,13 +79,13 @@
       active="[[active]]"
     >
       <div class="hero-title highlight-font">{$ heroSettings.schedule.title $}</div>
-      <p class="hero-description">{$ heroSettings.schedule.description $}</p>
-      <sticky-element slot="bottom" active="[[active]]">
+      <!-- <p class="hero-description">{$ heroSettings.schedule.description $}</p> -->
+      <!-- <sticky-element slot="bottom" active="[[active]]">
         <header-bottom-toolbar></header-bottom-toolbar>
-      </sticky-element>
+      </sticky-element> -->
     </hero-block>
 
-    <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>
+    <!-- <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress> -->
 
     <!-- <filter-menu
       filters="[[_filters]]"
@@ -93,7 +93,12 @@
     ></filter-menu> -->
 
     <div class="container">
-      <content-loader
+        <div class="row">
+          <div class="col-md-6">
+            <h1>To be announced soon</h1>
+          </div>
+        </div>
+      <!-- <content-loader
         card-padding="15px"
         card-margin="16px 0"
         card-height="140px"
@@ -134,7 +139,7 @@
           viewport="[[viewport]]"
           query-params="[[queryParams]]"
         ></my-schedule>
-      </iron-pages>
+      </iron-pages> -->
     </div>
 
     <footer-block></footer-block>
