@@ -197,7 +197,7 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "/images/organizers.jpg",
+    "image": "https://raw.githubusercontent.com/GDG-Pune/gdgpune_devfest/codetronaut-patch/images/organizers.jpg",
     "blocks": [
       {
         "title": "Organizer",

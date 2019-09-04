@@ -49,7 +49,7 @@
       "description": "From the community, to the community!",
       "background": {
         "color": "#42a8ff",
-        "image": "/images/backgrounds/background.jpeg"
+        "image": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/backgrounds/background.jpeg?raw=true"
       },
       "fontColor": "#FFF"
     },
