@@ -1,6 +1,6 @@
 {
   "title": "GDG DevFest Pune 2019",
-  "description": "From the community, to the community!",
+  "description": "By the community, to the community!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, gdgpune, pune, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "September 28, 2019",
@@ -13,8 +13,7 @@
   "buyTicket": "Buy ticket",
   "signIn": "Sign in",
   "signOut": "Sign out",
-  "callSpeaker": "Become Speaker",
-  "callVolunteer": "Become Volunteer",
+  "requestInvite": "Request An Invite",
   "offlineMessage": "You can still work offline.",
   "cachingComplete": "Caching complete! Future visits will work offline.",
   "newVersionAvailable": "A new version of this app is available.",
@@ -53,15 +52,11 @@
       "title": "Event Resources",
       "links": [
         {
-          "name": "Call for Speakers",
+          "name": "Request An Invite",
           "url": "http://bit.ly/CFPDevFestPune2019",
           "newTab": true
-        },
-        {
-          "name": "Call for Volunteers",
-          "url": "http://bit.ly/DevFestPune2019Volunteers",
-          "newTab": true
         }
+        
       ]
     }
   ],
@@ -90,7 +85,7 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "TBD"
+        "number": "20"
       },
       "tracks": {
         "label": "Tracks",
