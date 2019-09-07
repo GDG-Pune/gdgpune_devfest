@@ -46,7 +46,8 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "From the community, to the community!",
+      "description": "By the community, to the community!",
+      
       "background": {
         "color": "#42a8ff",
         "image": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/backgrounds/background.jpeg?raw=true"
@@ -100,17 +101,17 @@
     "name": "Planeta kino",
     "city": "Pune",
     "short": "Pune, Maharashtra",
-    "address": "The Westin Pune Koregaon Park, Mundhwa Rd, Koregaon Park Annexe",
+    "address": "JW Marriott Hotel Pune, Senapati Bapat Rd, Laxmi Society, Model Colony, Shivajinagar",
     "pointer": {
-      "latitude": 18.5392225,
-      "longitude": 73.9059254,
-      "zoom": 8
+      "latitude": 18.5325571,
+      "longitude": 73.8286812,
+      "zoom": 17.4
     },
     "mapCenter": {
       "latitude": 18,
-      "longitude": 74
+      "longitude": 73
     },
-    "description": "Westin Pune is a reknowned venue in Pune, which can fulfill the needs of the large-scale event"
+    "description": "JW Marriott Pune is a reknowned venue in Pune, which can fulfill the needs of the large-scale event"
   },
   "mediaQueries": {
     "xs": {
