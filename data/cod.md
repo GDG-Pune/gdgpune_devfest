@@ -45,3 +45,7 @@ If a community member engages in unacceptable behavior, the community organizers
 ### 6. Scope
 
 We expect all community participants to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications about community business. This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to affect the safety and well-being of community members adversely.
+
+### 7. Values
+
+DevFest Ahmedabad is an inclusive event where developers, designers, and entrepreneurs of all skill levels, genders, religions, and backgrounds are welcome to learn, practice, and share Google technologies, services, and platforms. Our motto is “Be excellent to each other;” if you see or experience anything different please contact [THE ORGANIZERS](/team)

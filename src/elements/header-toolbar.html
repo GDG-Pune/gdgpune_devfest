@@ -39,10 +39,12 @@
         display: block;
         width: 150px;
         height: 32px;
-        background-color: var(--default-primary-color);
+        /*background-color: var(--default-primary-color);
         transition: background-color var(--animation);
         -webkit-mask: url('/images/gdg-logo.png') no-repeat;
-        -webkit-mask-size: cover;
+        -webkit-mask-size: cover;*/
+        background-image: url("../../images/gdg-logo-mobile.png");
+        background-size: cover;
       }
 
       .nav-items {
@@ -218,11 +220,11 @@
         </div>
       </paper-menu-button>
 
-      <paper-icon-button
+      <!-- <paper-icon-button
         icon="hoverboard:account"
         on-tap="signIn"
         hidden$="[[_isAccountIconHidden(user.signedIn, viewport.isLaptopPlus)]]"
-      ></paper-icon-button>
+      ></paper-icon-button> -->
     </app-toolbar>
 
   </template>
@@ -347,7 +349,6 @@
         this.updateStyles({
           '--hero-font-color': settings.fontColor || '',
           '--hero-logo-opacity': settings.hideLogo ? '0' : '1',
-          '--hero-logo-color': settings.backgroundImage ? '#fff' : 'var(--default-primary-color)',
         });
       }
     }
