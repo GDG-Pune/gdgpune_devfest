@@ -1,6 +1,6 @@
 {
   "title": "GDG DevFest Pune 2019",
-  "description": "By the community, to the community!",
+  "description": "By the community, for the community!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, gdgpune, pune, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "September 28, 2019",
@@ -13,7 +13,7 @@
   "buyTicket": "Buy ticket",
   "signIn": "Sign in",
   "signOut": "Sign out",
-  "requestInvite": "Request An Invite",
+  "requestInvite": "Request An Invitation",
   "offlineMessage": "You can still work offline.",
   "cachingComplete": "Caching complete! Future visits will work offline.",
   "newVersionAvailable": "A new version of this app is available.",
@@ -33,7 +33,7 @@
       "links": [
         {
           "name": "GDG Pune",
-          "url": "https://meetup.com/Pune-GDG/",
+          "url": "https://gdgpune.org/",
           "newTab": true
         },
         {
@@ -52,11 +52,20 @@
       "title": "Event Resources",
       "links": [
         {
-          "name": "Request An Invite",
+          "name": "Call for Speakers",
           "url": "http://bit.ly/CFPDevFestPune2019",
           "newTab": true
+        },
+        {
+          "name": "Call for Volunteers",
+          "url": "http://bit.ly/DevFestPune2019Volunteers",
+          "newTab": true
+        },
+        {
+          "name": "Request An Invite",
+          "url": "http://devfest.gdgpune.org",
+          "newTab": true
         }
-        
       ]
     }
   ],
@@ -77,7 +86,7 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "800"
+        "number": "1000"
       },
       "days": {
         "label": "Days",
@@ -94,8 +103,8 @@
     }
   },
   "ticketsBlock": {
-    "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "title": "Request an Invite",
+    "ticketsDetails": "This does not guarantee your seat has been confirmed. Selected attendees will receive a seperate email confirming their presence.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"

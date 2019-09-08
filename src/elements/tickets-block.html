@@ -145,7 +145,7 @@
     <div class="tickets-wrapper container">
       <br><br>
       <h1 class="container-title">{$ ticketsBlock.title $}</h1>
-      <!-- <content-loader
+      <content-loader
         class="tickets-placeholder"
         card-padding="24px"
         card-height="216px"
@@ -159,14 +159,8 @@
         items-count="{$ contentLoaders.tickets.itemsCount $}"
         hidden$="[[contentLoaderVisibility]]">
       </content-loader>
- -->
-      <div class="row">
-        <div class="col-md-10 col-md-offset-1 text-center">
-          Rome was not built in a day. Awesome things take time. Stay tuned, ticket prices will be updated soon.
-        </div>
-      </div>
 
-    <!--   <div class="tickets" layout horizontal wrap center-justified>
+      <div class="tickets" layout horizontal wrap center-justified>
         <template is="dom-repeat" items="[[tickets]]" as="ticket">
           <a
             class="ticket-item card"
@@ -205,7 +199,7 @@
             </div>
           </a>
         </template>
-      </div> -->
+      </div>
 
       <div class="additional-info">*{$ ticketsBlock.ticketsDetails $}</div>
 

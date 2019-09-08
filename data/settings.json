@@ -2,7 +2,7 @@
   "organizer": {
     "name": "GDG Pune",
     "twitter": "gdgpune",
-    "url": "https://gdg-pune-devfest19.firebaseapp.com"
+    "url": "https://gdgpune.org"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
@@ -42,12 +42,16 @@
       "route": "cod",
       "permalink": "/cod/",
       "label": "Code of Conduct"
+    },
+    {
+      "route": "faq",
+      "permalink": "/faq/",
+      "label": "FAQs"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "By the community, to the community!",
-      
+      "description": "By the community, for the community!",
       "background": {
         "color": "#42a8ff",
         "image": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/backgrounds/background.jpeg?raw=true"

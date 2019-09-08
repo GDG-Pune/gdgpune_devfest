@@ -2,7 +2,7 @@
 
 ### Dates and location
 
-GDG DevFest Pune will take place on the 29th of September in [Westin Pune]( https://www.google.com/maps/place/The+Westin+Pune+Koregaon+Park/@18.5392225,73.9059254,17z/data=!4m18!1m9!3m8!1s0x3bc2c109522d9db5:0xcc8ef2da134edd62!2sThe+Westin+Pune+Koregaon+Park!5m2!4m1!1i2!8m2!3d18.5392208!4d73.9062611!3m7!1s0x3bc2c109522d9db5:0xcc8ef2da134edd62!5m2!4m1!1i2!8m2!3d18.5392208!4d73.9062611 ).
+GDG DevFest Pune will take place on the 28th of September at [JW Marriott Hotel, SB Road, Pune](https://g.page/JWMarriottHotelPune?share).
 
 ### Stay Informed
 
@@ -10,87 +10,77 @@ To stay up to date on the latest information on sessions, speakers, and activiti
 
 ### Content Formats
 
-During two conference days attendees will be able to attend sessions and hands-on workshops, chat with experts and attendees at coffee breaks and after party, and more.
+During one day conference , attendees will be able to attend sessions, chat with experts, GDG team and other attendees at coffee breaks and lunch, and more.
 
 ### Livestream & Recordings
 
-If you’re unable to attend DevFest in-person, you can still be part of the magic. All the lectures from the sessions will be available for free on GDG Pune [youtube channel](https://www.youtube.com/channel/UC5nknQj-2llSNd-jqXr4d_w) few weeks after the conference. Workshops won’t be recorded. Also, there could be a livestream provided by participants which you can find via #DevFestPune and #DevFest19 hashtags.
+If you’re unable to attend DevFest in-person, you can still be part of the magic. All the lectures from the sessions will be available for free on GDG Pune [youtube channel](https://www.youtube.com/channel/UCWjodTrsdRBOUyTuYo2l4Og) few weeks after the conference. Workshops won’t be recorded. Also, there could be a livestream provided by participants which you can find via #DevFestPune and #DevFest19 hashtags.
 
   
 ## Registration
 
+### Do I need a ticket to join DevFest Pune?
 
-### Drawing Dates
+Yes, participation to the DevFest is free, but registration is mandatory. Shortlisted candidates shall be notified by e-mail.  
 
-The window to buy a ticket will be opened until 6PM GMT+2 on October 11th 2018, or earlier if the tickets are sold out. If the ticket was bought after September 30th registered participants won’t get printed badge (their names will be written on the badge by marker). To buy a ticket [follow the link]( https://2event.com/events/1027108), select required ticket type, fill in the required information and pay for it.
+### I can't attend DevFest, what should I do?
 
-Once you've successfully payed for the ticket you’ll reach a confirmation screen and receive an email with the ticket. Please don’t forget to download it on your device or print it, as it’s required for entrance.
+If you can't attend we kindly ask you to cancel your order via Townscript, or either send us an email (we can do it for you). DevFest has received an overwhelming interest and we have a long wait list.
+If you can’t join us, please let us know by replying to this email and we’ll free up your spot for others on the wait list.
 
-  
+### Do I need to print my tickets?
 
-### Ticket Types
+No, Showing the confirmation email  is also enough. Keep this confirmation email handy (opened in your phone/tablet) for hustle free registration at the event. 
 
-#### **Pre-Early birds tickets**
+### Should I come even if I'm still on the waiting list?
 
-General Admission: $50
+You can come even if you're in the waiting list, but we can't assure you will get a spot :( We will release tickets of people that don't show up during day so you may have a chance to get in, but this is out of our control, and we can't tell you in advance if you'll get a place.
 
-Conditions: Feb 7 - Mar 7 or first 50 tickets
+### Can I give my ticket to someone else?
 
-#### **Early birds tickets**
+Yes, but you need to tell us about this, and we will take care of voiding your tickets and emitting a new one to your friend/relative.
 
-General Admission: $70
+### Can I leave the conference and come back later?
 
-Conditions: Mar 7 - Jun 30 or first 200 tickets
+Yes, you can always leave the conference and come back whenever you want. To enter the venue you anyway always need your badge (you will get it at the entrance).
 
-#### **Lazy birds tickets**
+### I registered on [meetup.com](https://meetup.com/). Is that valid as a ticket?
 
-General Admission: $90
+No, the only valid tickets for DevFest are the confirmation mail send from GDG Pune team.
 
-Conditions: Jul 1 - Sep 30 or until tickets will be sold out
+### Will I get food/lunch at the DevFest?
 
-#### **EDU (Students/lecturers) Tickets**
+Yes, we are offering a lunch and two tea/coffee breaks.
 
-We offer a limited number of tickets at a discounted rate of $30 for full-time students and lecturers. To qualify, you need to be a student or a professor, faculty or staff at a higher education institution. Be aware that PhD students are not in the list. Once purchased, general admission tickets can't be converted to EDU tickets, and vice versa.
+### Are you giving away any gadgets/awards?
 
-When you check in at the conference, you'll need to provide a current student ID (active during the conference dates), transcript, credential, or other form of documentation which demonstrates that you’re qualified to receive this special rate. If you buy an academic ticket and can't provide academic documentation when you arrive at DevFest, you won't be admitted or offered a refund, nor will you be able to convert your ticket to general admission.
+Yes, we have some swags for all the participants + some giveaways to give as a raffle 🎁. All the details at the opening ceremony (9:30 am).
 
 #### **Press Tickets**
 
-We’ll be offering a limited number of press passes to qualified members of the media. To submit a request, please fill out this [FORM]( https://goo.gl/forms/SmKHuksRw8sb0eoB2). If you have additional questions, please email [info@gdgpune.org](mailto:info@gdgpune.org) for more information. Please note that we’ll have a limited number of press passes available and will be vetting requests. Filling out the form doesn’t guarantee you a press pass. Our team will contact you if we’re able to accommodate your request.
+We’ll be offering a limited number of press passes to qualified members of the media. To submit a request,, please email [info@gdgpune.org](mailto:info@gdgpune.org) . Please note that we’ll have a limited number of press passes available and will be vetting requests. Our team will contact you if we’re able to accommodate your request.
 
-#### **I Love DevFestPune**
+### Request an Invitation Dates
 
-General admission: $150
+The window to request an invitation will be opened until 6PM IST on September 21st, 2019, or earlier if the tickets are sold out. To request an invitation follow the link, select required ticket type, fill in the required information.
 
-Special tickets for real supporters of our conference. As we’re organizing the event on non-profit basis, additional resources will help us bring more cool speakers from all over the world and additionally invest into demo-zone, party, and other activities. Owners of “I love DevFestPune” tickets will get additional valuable benefits from our team.
+Once you've successfully request an invite to attend the DevFest, you’ll received a confirmation email with the ticket a week before the event.
 
-  
+#### **Ticket Types**
+
+Please make sure you requesting an invitation for right category.
 
 ### Registration Terms & Conditions
 
-- Tickets for GDG DevFest Pune are for the full day conference.
-- You may buy a ticket on behalf of the other person (for example, make a gift). Just mention during purchase the name, company and title of the person who will attend the event. 
-- GDG DevFest Pune tickets must be used by the original registrant and are non-transferable. 
-- By registering and accepting any discounts, gifts, or items of value related to GDG DevFest Pune, you certify that you are able to do so in compliance with applicable laws and the internal rules of your organization. 
-- At check-in, we’ll check your ticket prior to assigning you your GDG DevFest Pune badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference. 
-- If you buy an EDU ticket and can't provide academic documentation during check-in at GDG DevFest Pune, you won't be admitted or offered a refund, nor will you be able to convert your ticket to general admission. Please be sure to bring a current student ID or other proof that you are qualified to receive this special rate when you check in at the conference. 
-- Ticket purchases can be refunded before October 4th, 2018 via your profile at the [ticket service website]( https://2event.com/events/1027108). 
-- After October 4th, 2018, all ticket sales are final. There will be no refunds or exchanges regardless of weather conditions, session availability, or any other circumstance. 
-- Attendees aren’t permitted to bring guests to GDG DevFest Pune or to the after hours party. If you have someone traveling with you, they’ll need to register themselves and purchase an attendee ticket. 
-- Photographs and/or video taken at GDG DevFest Pune by GDG Pune, or others on behalf of the conference organizers, may include your image or likeness. You agree that GDG Pune may use such photographs and/or video for any purpose without any compensation to you. 
-- All information entered into the registration form must be correct and accurate to the best of your knowledge. All information expected to be entered in English. Some of the information entered (such as name, company and title), will be displayed on the attendee badge. 
-- By registering for a ticket you acknowledge that your information will be used in accordance with [Tickets provider Terms of Service](https://2event.com/en/agreement). 
-- All registered attendees agree to allow GDG Pune to contact them regarding their registration and attendance at the event. By registering for a ticket, you agree to allow GDG Pune to communicate with you via email with information regarding the event. 
-- You agree to be solely responsible for your own safety, belongings and well-being while participating in GDG DevFest Pune. Organizers won't be liable for your participation in GDG DevFest Pune. 
-- Applicants and attendees can request the deletion of their registration data after the event ends by emailing [info@gdgpune.org](mailto:info@gdgpune.org). 
-  
-
-### More Registration Details
-
-- Please make sure to register using the name that matches the government-issued photo ID you’ll be presenting when you check in to the festival. 
-- Registration for GDG DevFest Pune includes two full days of sessions, product demos, admission to the after hours party, and attendance at the keynotes. We also provide complimentary snacks each day. In addition, attendees receive a conference badge and may be offered additional gifts.  
-- If you aren’t a resident of Pune, you should check with your local government to determine the required documents and arrangements needed for your travel to Pune. If you require a visa letter regarding your GDG DevFest Pune attendance please indicate so when completing the registration form and we’ll email it to you within 7 business days. If you haven’t received your letter or have questions regarding the process, you can contact [info@gdgpune.org](mailto:info@gdgpune.org). GDG Pune won’t be able to contact an embassy on your behalf. 
-  
+- By registering and accepting any discounts, gifts, or items of value related to GDG DevFest Ukraine, you certify that you are able to do so in compliance with applicable laws and the internal rules of your organization.
+- At check-in, we’ll check your ticket prior to assigning you your GDG DevFest Pune badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference.
+- If you register under student category and can't provide academic documentation during check-in at GDG DevFest Pune, you won't be admitted nor will you be able to convert your ticket to general admission. Please be sure to bring a current student ID when you check in at the conference.
+- Attendees aren’t permitted to bring guests to GDG DevFest Pune. If you have someone traveling with you, they’ll need to register themselves for request an invitation.
+- Photographs and/or video taken at GDG DevFest Pune by GDG Pune, or others on behalf of the conference organizers, may include your image or likeness. You agree that GDG Pune may use such photographs and/or video for any purpose without any compensation to you.
+- All information entered into the registration form must be correct and accurate to the best of your knowledge. All information expected to be entered in English. Some of the information entered (such as name, company and title), will be displayed on the attendee badge.
+- By registering for conference you acknowledge that your information will be used in accordance with Tickets provider Terms of Service.
+- All registered attendees agree to allow GDG Pune to contact them regarding their registration and attendance at the event. By registering for a conference, you agree to allow GDG Pune to communicate with you via email with information regarding the event.
+- You agree to be solely responsible for your own safety, belongings and well-being while participating in GDG DevFest Pune. Organizers won't be liable for your participation in GDG DevFest Pune.
 
 ## Attendance Details
 
@@ -102,31 +92,19 @@ All presentations at GDG DevFest Pune will be in English.
 
 If you’re joining us in-person at Westin Pune, here are some useful tips to navigate your way through the conference:
 
-- Lost & Found: Will be located at the Conference Info Desk (Registration point) during event hours. Any items left overnight will be turned over to the Conference Security Office. 
-- Lunch: Attendees are invited to have a lunch at one of the many restaurants at King Cross shopping mall. 
-- After Hours: Day 1 afterparty you don’t want to miss! Attendees are invited to enjoy food, drinks, music, games, and more during the evening of October 12th (location will be published). Your attendee badge is required for entrance. 
-  
+- Lost & Found: Will be located at the Conference Info Desk (Registration point) during event hours. Any items left overnight will be turned over to the Conference Security Office.
+- Lunch: Yes, we are offering a lunch and two tea/coffee breaks.  
 
 ### Badges & Badge Pick-up
 
-To expedite the check-in process, we’ll begin badge pick-up on Thursday, October 11, (location will be published). Make sure to bring your ticket along with student/lecturer ID (for EDU tickets), as we’ll need to verify it prior to assigning you your GDG DevFest Pune badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference.
+To expedite the check-in process, we’ll begin badge pick-up on Saturday, September 28 at 08:00 am at the venue itself.. Make sure to bring your ticket(conference invite) along with your ID proof, as we’ll need to verify it prior to assigning you your GDG DevFest Pune badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference.
 
-Everyone is guaranteed a seat for the keynotes but the best seats will be assigned on a first-come, first-served basis during badge pick-up beginning at 9AM on October 12th. So make sure to come in on time!
+Everyone is guaranteed a seat for the DevFest but the best seats will be assigned on a first-come, first-served basis during badge pick-up beginning at 8AM on September 28th. So make sure to come in on time!
 
-Please note, you may not share, give, or otherwise provide your badge to anyone. GDG DevFest Pune badges aren’t replaceable, so don't lose yours or you won’t be readmitted to the conference. You must wear your GDG DevFest Pune badge to gain admission to the conference, including the sessions, workshops, and afterparty. If requested by security, please display or provide additional identification. GDG DevFest Pune badges may include your name, company or work title (if provided).
-
-  
-
-### Afterparty
-
-All registered attendees are invited to the afterparty on the evenings of October 12th. The conference badges will be required for entry. Please join us for food, drinks, music, games, and more. Alcoholic beverages will be available for those 18 and over.
-
-  
+Please note, you may not share, give, or otherwise provide your badge to anyone. GDG DevFest Pune badges aren’t replaceable, so don't lose yours or you won’t be readmitted to the conference. You must wear your GDG DevFest Pune badge to gain admission to the conference. If requested by security, please display or provide additional identification. GDG DevFest Pune badges may include your name, company or work title (if provided).
 
 ### Event Attire
-
 GDG DevFest is a developer event, so please be comfortable and casual. There is no enforced dress code.
-
 
 ### Smoking
 
