@@ -70,9 +70,15 @@ Once you've successfully request an invite to attend the DevFest, you’ll recei
 
 Please make sure you requesting an invitation for right category.
 
+- WTM-These tickets are exclusively for women attendees. However, they can register in students and professionals category as well. 
+- Professionals- 
+This category is exclusively for professionals. 
+- Students- 
+This category is exclusively for students.
+
 ### Registration Terms & Conditions
 
-- By registering and accepting any discounts, gifts, or items of value related to GDG DevFest Ukraine, you certify that you are able to do so in compliance with applicable laws and the internal rules of your organization.
+- By registering and accepting any discounts, gifts, or items of value related to GDG DevFest Pune, you certify that you are able to do so in compliance with applicable laws and the internal rules of your organization.
 - At check-in, we’ll check your ticket prior to assigning you your GDG DevFest Pune badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference.
 - If you register under student category and can't provide academic documentation during check-in at GDG DevFest Pune, you won't be admitted nor will you be able to convert your ticket to general admission. Please be sure to bring a current student ID when you check in at the conference.
 - Attendees aren’t permitted to bring guests to GDG DevFest Pune. If you have someone traveling with you, they’ll need to register themselves for request an invitation.
@@ -90,7 +96,7 @@ All presentations at GDG DevFest Pune will be in English.
 
 ### Pro Tips
 
-If you’re joining us in-person at Westin Pune, here are some useful tips to navigate your way through the conference:
+If you’re joining us in-person at JW Marriott Pune, here are some useful tips to navigate your way through the conference:
 
 - Lost & Found: Will be located at the Conference Info Desk (Registration point) during event hours. Any items left overnight will be turned over to the Conference Security Office.
 - Lunch: Yes, we are offering a lunch and two tea/coffee breaks.  
