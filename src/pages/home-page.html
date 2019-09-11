@@ -155,42 +155,7 @@
 
         
         <div class="action-buttons" layout horizontal center-justified wrap>
-          <!-- <paper-button
-            class="watch-video"
-            on-tap="_playVideo"
-            ga-on="click"
-            ga-event-category="video"
-            ga-event-action="watch"
-            ga-event-label="hero block - view highlights"
-          >
-            <iron-icon icon="hoverboard:movie"></iron-icon>
-            {$ viewHighlights $}
-          </paper-button> -->
-
-          <a target="_blank" href="">
           <paper-button
-            ga-on="click"
-            ga-event-category="video"
-            ga-event-action="watch"
-            ga-event-label="hero block - view highlights"
-            primary event
-          >
-            &nbsp;{$ requestInvite $}&nbsp;
-          </paper-button>
-          </a>
-          <!-- <a target="_blank" href="http://bit.ly/DevFestPune2019Volunteers">
-          <paper-button
-            ga-on="click"
-            ga-event-category="video"
-            ga-event-action="watch"
-            ga-event-label="hero block - view highlights"
-            primary invert
-          >
-            <iron-icon icon="hoverboard:website"></iron-icon>
-            {$ callVolunteer $}
-          </paper-button>
-          </a> -->
-          <!-- <paper-button
             on-tap="_scrollToTickets"
             ga-on="click"
             ga-event-category="tickets"
@@ -200,7 +165,7 @@
           >
             <iron-icon icon="hoverboard:ticket"></iron-icon>
             {$ buyTicket $}
-          </paper-button> -->
+          </paper-button>
         </div>
 
         <div class="scroll-down" on-tap="_scrollNextBlock">
@@ -258,7 +223,7 @@
         // eslint-disable-next-line no-undef
         const ticketsBlockPositionY = HOVERBOARD.Elements.Tickets.getBoundingClientRect().top
           - toolbarHeight;
-        this.scrollToY(ticketsBlockPositionY, 600, 'easeInOutSine');
+        this.scrollToY(ticketsBlockPositionY - 80, 2000, 'easeInOutSine');
       }
 
       _scrollNextBlock() {

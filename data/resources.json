@@ -10,10 +10,9 @@
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Request an Invite",
+  "buyTicket": "Request an invitation",
   "signIn": "Sign in",
   "signOut": "Sign out",
-  "requestInvite": "Request An Invitation",
   "offlineMessage": "You can still work offline.",
   "cachingComplete": "Caching complete! Future visits will work offline.",
   "newVersionAvailable": "A new version of this app is available.",
@@ -23,6 +22,7 @@
   "time": "Time",
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
+  "locationSource": "/data/location.md",
   "mySchedule": {
     "title": "My Schedule",
     "browseSession": "Browse sessions"
@@ -62,7 +62,7 @@
           "newTab": true
         },
         {
-          "name": "Request An Invite",
+          "name": "Request an invitation",
           "url": "http://devfest.gdgpune.org",
           "newTab": true
         }
@@ -103,8 +103,8 @@
     }
   },
   "ticketsBlock": {
-    "title": "Request an Invite",
-    "ticketsDetails": "This does not guarantee your seat has been confirmed. Selected attendees will receive a seperate email confirming their presence.",
+    "title": "Request an Invitation",
+    "ticketsDetails": "Tickets to GDG Pune DevFest 2019 are complementary, but require an application to attend. If your application is accepted, you will receive a confirmation email.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"

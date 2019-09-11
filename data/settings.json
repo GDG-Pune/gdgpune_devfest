@@ -39,6 +39,11 @@
       "label": "Team"
     },
     {
+      "route": "location",
+      "permalink": "/location/",
+      "label": "Location"
+    },
+    {
       "route": "cod",
       "permalink": "/cod/",
       "label": "Code of Conduct"
@@ -102,7 +107,7 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
+    "name": "JW Marriott Pune",
     "city": "Pune",
     "short": "Pune, Maharashtra",
     "address": "JW Marriott Hotel Pune, Senapati Bapat Rd, Laxmi Society, Model Colony, Shivajinagar",
