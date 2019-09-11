@@ -12,7 +12,7 @@ We'll be emailing important information to all accepted applicants, along with c
 
 ### Content Formats
 
-During one day conference , attendees will be able to attend sessions, chat with experts, GDG team and other attendees at coffee breaks and lunch, and more.
+During the one day conference, attendees will be able to attend sessions, chat with experts, GDG team and other attendees at coffee breaks and lunch, and more.
 
 ### Livestream & Recordings
 
@@ -32,7 +32,7 @@ Please make sure you requesting an invitation for right category.
 
 ### I registered on [meetup.com](https://meetup.com/). Is that valid as a ticket?
 
-No, the only valid tickets for DevFest are the confirmation mail send from GDG Pune team.
+No, the only valid tickets for DevFest are the confirmation mail sent from GDG Pune team.
 
 ### Registration Terms & Conditions
 
@@ -63,7 +63,7 @@ All presentations are in English. Attendance at sessions and workshops is on a f
 If you’re joining us in-person at JW Marriott Pune, here are some useful tips to navigate your way through the conference:
 
 - Lost & Found: Will be located at the Conference Info Desk (Registration point) during event hours. Any items left overnight will be turned over to the Conference Security Office.
-- Lunch: Yes, we are offering a lunch and two tea/coffee breaks.  
+- Lunch: Yes, we are offering lunch and two tea/coffee breaks.  
 
 ### Badges & Badge Pick-up
 
