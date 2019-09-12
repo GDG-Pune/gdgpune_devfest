@@ -103,24 +103,26 @@
         "color": "#fff"
       },
       "fontColor": "#424242"
-    }
-  },
-  "location": {
-    "label": "Location",
-    "name": "JW Marriott Pune",
-    "city": "Pune",
-    "short": "Pune, Maharashtra",
-    "address": "JW Marriott Hotel Pune, Senapati Bapat Rd, Laxmi Society, Model Colony, Shivajinagar",
-    "pointer": {
-      "latitude": 18.5325571,
-      "longitude": 73.8286812,
-      "zoom": 17.4
     },
-    "mapCenter": {
+  
+    "location": {
+      "title":"Location",
+      "label": "Location",
+      "name": "JW Marriott Pune",
+      "city": "Pune",
+      "short": "Pune, Maharashtra",
+      "address": "JW Marriott Hotel Pune, Senapati Bapat Rd, Laxmi Society, Model Colony, Shivajinagar",
+      "pointer": {
+        "latitude": 18.5325571,
+        "longitude": 73.8286812,
+        "zoom": 17.4
+      },
+      "mapCenter": {
       "latitude": 18,
       "longitude": 73
-    },
-    "description": "JW Marriott Pune is a reknowned venue in Pune, which can fulfill the needs of the large-scale event"
+      },
+      "description": "JW Marriott Pune is a renowned venue in Pune, which can fulfill the needs of the large-scale event"
+    }
   },
   "mediaQueries": {
     "xs": {
