@@ -366,6 +366,32 @@ const teamReducer = (state = initialState.team, action) => {
   }
 };
 
+const volunteersReducer = (state = initialState.volunteers, action) => {
+  switch (action.type) {
+    case FETCH_VOLUNTEERS:
+      return Object.assign({}, state, {
+        fetching: true,
+        fetchingError: null,
+        list: [],
+      });
+
+    case FETCH_VOLUNTEERS_FAILURE:
+      return Object.assign({}, state, {
+        fetching: false,
+        fetchingError: action.payload.error,
+      });
+
+    case FETCH_VOLUNTEERS_SUCCESS:
+      return Object.assign({}, state, {
+        fetching: false,
+        list: action.payload.list,
+      });
+
+    default:
+      return state;
+  }
+};
+
 const userReducer = (state = initialState.user, action) => {
   switch (action.type) {
     case SIGN_IN:

@@ -88,6 +88,11 @@ const FETCH_TEAM = 'app/Team/FETCH_TEAM';
 const FETCH_TEAM_FAILURE = 'app/Team/FETCH_TEAM_FAILURE';
 const FETCH_TEAM_SUCCESS = 'app/Team/FETCH_TEAM_SUCCESS';
 
+// volunteers
+const FETCH_VOLUNTEERS = 'app/Volunteers/FETCH_VOLUNTEERS';
+const FETCH_VOLUNTEERS_FAILURE = 'app/Volunteers/FETCH_VOLUNTEERS_FAILURE';
+const FETCH_VOLUNTEERS_SUCCESS = 'app/Volunteers/FETCH_VOLUNTEERS_SUCCESS';
+
 // user
 const SIGN_IN = 'app/Auth/SIGN_IN';
 const SIGN_OUT = 'app/Auth/SIGN_OUT';

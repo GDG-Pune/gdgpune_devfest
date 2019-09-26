@@ -39,6 +39,11 @@
       "label": "Team"
     },
     {
+      "route": "volunteers",
+      "permalink": "/volunteers/",
+      "label": "Volunteers"
+    },
+    {
       "route": "location",
       "permalink": "/location/",
       "label": "Location"
@@ -83,6 +88,14 @@
     "team": {
       "title": "Team",
       "metaDescription": "Get more info about organizers",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "volunteers": {
+      "title": "Volunteers",
+      "metaDescription": "Get more info about volunteers",
       "background": {
         "color": "#fff"
       },
