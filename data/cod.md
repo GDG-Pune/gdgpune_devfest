@@ -48,4 +48,4 @@ We expect all community participants to abide by this Code of Conduct in all com
 
 ### 7. Values
 
-DevFest Ahmedabad is an inclusive event where developers, designers, and entrepreneurs of all skill levels, genders, religions, and backgrounds are welcome to learn, practice, and share Google technologies, services, and platforms. Our motto is “Be excellent to each other;” if you see or experience anything different please contact [THE ORGANIZERS](/team)
+DevFest Pune is an inclusive event where developers, designers, and entrepreneurs of all skill levels, genders, religions, and backgrounds are welcome to learn, practice, and share Google technologies, services, and platforms. Our motto is “Be excellent to each other;” if you see or experience anything different please contact [THE ORGANIZERS](/team)
