@@ -1,0 +1,1019 @@
+{
+	"2019-09-28": {
+		"date": "2019-09-28",
+		"tags": ["Android", "Web", "Cloud"],
+		"tracks": [{
+			"title": "Expo hall"
+		}, {
+			"title": "Conference hall"
+		}, {
+			"title": "Workshops hall"
+		}],
+		"dateReadable": "September 28",
+		"timeslots": [{
+			"sessions": [{
+				"items": [{
+					"track": {
+						"title": "Expo hall"
+					},
+					"description": "Get your badge, coffee, enjoy talking with tech edicts around",
+					"image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
+					"id": 100,
+					"speakers": [],
+					"title": "Registration & Networking",
+					"endTime": "09:00",
+					"startTime": "08:00",
+					"mainTag": "General",
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"icon": "registration",
+					"duration": {
+						"mm": 0,
+						"hh": 1
+					}
+				}],
+				"gridArea": "1 / 1 / 1 / 4"
+			}],
+			"endTime": "09:00",
+			"startTime": "08:00"
+		}, {
+			"endTime": "09:10",
+			"startTime": "09:00",
+			"sessions": [{
+				"items": [{
+					"day": "2019-09-28",
+					"icon": "opening",
+					"duration": {
+						"hh": 0,
+						"mm": 10
+					},
+					"language": "English",
+					"track": {
+						"title": "Expo hall"
+					},
+					"description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+					"image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
+					"id": 101,
+					"speakers": [],
+					"endTime": "09:10",
+					"title": "Welcome Note",
+					"startTime": "09:00",
+					"mainTag": "General",
+					"dateReadable": "September 28"
+				}],
+				"gridArea": "2 / 1 / 2 / 4"
+			}]
+		},{
+			"endTime": "09:45",
+			"startTime": "09:15",
+			"sessions": [{
+				"items": [{
+					"mainTag": "General",
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 30,
+						"hh": 0
+					},
+					"language": "English",
+					"description": "",
+					"track": {
+						"title": "Expo hall"
+					},
+					"id": 102,
+					"speakers": [],
+					"title": "Old monk in a new Era : Lessons from 1994 to 2019",
+					"endTime": "09:45",
+					"startTime": "09:15"
+				}],
+				"gridArea": "3 / 1 / 3 / 4"
+			}]
+		}, {
+			"endTime": "10:45",
+			"startTime": "09:45",
+			"sessions": [{
+				"items": [{
+					"mainTag": "General",
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 0,
+						"hh": 1
+					},
+					"language": "English",
+					"description": "",
+					"track": {
+						"title": "Expo hall"
+					},
+					"id": 103,
+					"speakers": [{
+						"shortBio": "Manasi Joshi is a Director of Software Engineering at Google.",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/manasi.jpeg?raw=true",
+						"name": "Manasi Joshi",
+						"id": "manasi_joshi",
+						"tags": ["ML", "AI"],
+						"companyLogo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAwIiBoZWln%0D%0AaHQ9IjMyOC41NiI+PHBhdGggZD0iTTI0Ni4xMSAxMTYuMThIMTI5LjU0djM0LjU5aDgyLjY3M2Mt%0D%0ANC4wODQgNDguNTA3LTQ0LjQ0IDY5LjE5My04Mi41MzMgNjkuMTkzLTQ4LjczNiAwLTkxLjI2NC0z%0D%0AOC4zNDYtOTEuMjY0LTkyLjA5MiAwLTUyLjM1NiA0MC41NC05Mi42NzggOTEuMzctOTIuNjc4IDM5%0D%0ALjIxOCAwIDYyLjMyNyAyNSA2Mi4zMjcgMjVsMjQuMjItMjUuMDhTMTg1LjI0Ni41IDEyOC41NS41%0D%0AQzU2LjM1LjUwMy41IDYxLjQzNy41IDEyNy4yNTNjMCA2NC40OTQgNTIuNTM4IDEyNy4zOCAxMjku%0D%0AODkgMTI3LjM4IDY4LjAzIDAgMTE3LjgzLTQ2LjYwMyAxMTcuODMtMTE1LjUyIDAtMTQuNTM4LTIu%0D%0AMTEyLTIyLjk0LTIuMTEyLTIyLjk0eiIgZmlsbD0iIzQyODVmNCIvPjxwYXRoIGQ9Ik0zNDEuNiA5%0D%0AMS4xM2MtNDcuODMyIDAtODIuMTEgMzcuMzk0LTgyLjExIDgxLjAwNyAwIDQ0LjI1OCAzMy4yNDgg%0D%0AODIuMzQ4IDgyLjY3MiA4Mi4zNDggNDQuNzQyIDAgODEuMzk3LTM0LjE5NyA4MS4zOTctODEuMzk3%0D%0AIDAtNTQuMDk4LTQyLjY0LTgxLjk2LTgxLjk2LTgxLjk2em0uNDc2IDMyLjA4MmMyMy41MjIgMCA0%0D%0ANS44MTIgMTkuMDE3IDQ1LjgxMiA0OS42NiAwIDI5Ljk5My0yMi4xOTUgNDkuNTUyLTQ1LjkyIDQ5%0D%0ALjU1Mi0yNi4wNjggMC00Ni42MzMtMjAuODc4LTQ2LjYzMy00OS43OSAwLTI4LjI5MiAyMC4zMS00%0D%0AOS40MjIgNDYuNzQtNDkuNDIyeiIgZmlsbD0iI2VhNDMzNSIvPjxwYXRoIGQ9Ik01MjAuMTggOTEu%0D%0AMTNjLTQ3LjgzMiAwLTgyLjExIDM3LjM5NC04Mi4xMSA4MS4wMDcgMCA0NC4yNTggMzMuMjQ4IDgy%0D%0ALjM0OCA4Mi42NzIgODIuMzQ4IDQ0Ljc0MiAwIDgxLjM5Ny0zNC4xOTcgODEuMzk3LTgxLjM5NyAw%0D%0ALTU0LjA5OC00Mi42NC04MS45Ni04MS45Ni04MS45NnptLjQ3NiAzMi4wODJjMjMuNTIyIDAgNDUu%0D%0AODEyIDE5LjAxNyA0NS44MTIgNDkuNjYgMCAyOS45OTMtMjIuMTk1IDQ5LjU1Mi00NS45MiA0OS41%0D%0ANTItMjYuMDY4IDAtNDYuNjMzLTIwLjg3OC00Ni42MzMtNDkuNzkgMC0yOC4yOTIgMjAuMzEtNDku%0D%0ANDIyIDQ2Ljc0LTQ5LjQyMnoiIGZpbGw9IiNmYmJjMDUiLz48cGF0aCBkPSJNNjk1LjM0IDkxLjIx%0D%0ANWMtNDMuOTA0IDAtNzguNDE0IDM4LjQ1My03OC40MTQgODEuNjEzIDAgNDkuMTYzIDQwLjAxIDgx%0D%0ALjc2NSA3Ny42NTcgODEuNzY1IDIzLjI4IDAgMzUuNjU3LTkuMjQgNDQuNzk2LTE5Ljg0N3YxNi4x%0D%0AMDZjMCAyOC4xOC0xNy4xMSA0NS4wNTUtNDIuOTM3IDQ1LjA1NS0yNC45NSAwLTM3LjQ2My0xOC41%0D%0ANS00MS44MTItMjkuMDc4bC0zMS4zOSAxMy4xMjJjMTEuMTM2IDIzLjU0NyAzMy41NTQgNDguMTAz%0D%0AIDczLjQ2MyA0OC4xMDMgNDMuNjUyIDAgNzYuOTIyLTI3LjQ5NSA3Ni45MjItODUuMTZWOTYuMTI2%0D%0ASDczOS4zOHYxMy44MzdjLTEwLjUzLTExLjM0Ny0yNC45My0xOC43NDUtNDQuMDQtMTguNzQ1em0z%0D%0ALjE3OCAzMi4wMThjMjEuNTI1IDAgNDMuNjI4IDE4LjM4IDQzLjYyOCA0OS43NjggMCAzMS45MDUt%0D%0AMjIuMDU2IDQ5LjQ4OC00NC4xMDQgNDkuNDg4LTIzLjQwNiAwLTQ1LjE4NS0xOS4wMDUtNDUuMTg1%0D%0ALTQ5LjE4NCAwLTMxLjM1OCAyMi42Mi01MC4wNyA0NS42Ni01MC4wN3oiIGZpbGw9IiM0Mjg1ZjQi%0D%0ALz48cGF0aCBkPSJNOTI1Ljg5IDkxLjAyYy00MS40MTQgMC03Ni4xODcgMzIuOTUtNzYuMTg3IDgx%0D%0ALjU3IDAgNTEuNDQ3IDM4Ljc2IDgxLjk2IDgwLjE2NSA4MS45NiAzNC41NTggMCA1NS43NjgtMTgu%0D%0AOTA3IDY4LjQyNi0zNS44NDZsLTI4LjIzNS0xOC43ODdjLTcuMzI4IDExLjM3LTE5LjU3NyAyMi40%0D%0AODQtNDAuMDIgMjIuNDg0LTIyLjk2IDAtMzMuNTItMTIuNTczLTQwLjA2LTI0Ljc1M2wxMDkuNTIt%0D%0ANDUuNDQ0LTUuNjg2LTEzLjMxOGMtMTAuNTgtMjYuMDgtMzUuMjYtNDcuODYtNjcuOTItNDcuODZ6%0D%0AbTEuNDI3IDMxLjQxM2MxNC45MjMgMCAyNS42NjMgNy45MzQgMzAuMjI0IDE3LjQ0N2wtNzMuMTM4%0D%0AIDMwLjU3Yy0zLjE1My0yMy42NjcgMTkuMjctNDguMDE3IDQyLjkxNS00OC4wMTd6IiBmaWxsPSIj%0D%0AZWE0MzM1Ii8+PHBhdGggZD0iTTc5Ny40OSAyNDkuN2gzNS45NzVWOC45NUg3OTcuNDl6IiBmaWxs%0D%0APSIjMzRhODUzIi8+PC9zdmc+",
+						"title": "Director of Software Engineering",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/manasi.jpeg?raw=true",
+						"order": 0,
+						"featured": true,
+						"company": "Google",
+						"companyLogoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAwIiBoZWln%0D%0AaHQ9IjMyOC41NiI+PHBhdGggZD0iTTI0Ni4xMSAxMTYuMThIMTI5LjU0djM0LjU5aDgyLjY3M2Mt%0D%0ANC4wODQgNDguNTA3LTQ0LjQ0IDY5LjE5My04Mi41MzMgNjkuMTkzLTQ4LjczNiAwLTkxLjI2NC0z%0D%0AOC4zNDYtOTEuMjY0LTkyLjA5MiAwLTUyLjM1NiA0MC41NC05Mi42NzggOTEuMzctOTIuNjc4IDM5%0D%0ALjIxOCAwIDYyLjMyNyAyNSA2Mi4zMjcgMjVsMjQuMjItMjUuMDhTMTg1LjI0Ni41IDEyOC41NS41%0D%0AQzU2LjM1LjUwMy41IDYxLjQzNy41IDEyNy4yNTNjMCA2NC40OTQgNTIuNTM4IDEyNy4zOCAxMjku%0D%0AODkgMTI3LjM4IDY4LjAzIDAgMTE3LjgzLTQ2LjYwMyAxMTcuODMtMTE1LjUyIDAtMTQuNTM4LTIu%0D%0AMTEyLTIyLjk0LTIuMTEyLTIyLjk0eiIgZmlsbD0iIzQyODVmNCIvPjxwYXRoIGQ9Ik0zNDEuNiA5%0D%0AMS4xM2MtNDcuODMyIDAtODIuMTEgMzcuMzk0LTgyLjExIDgxLjAwNyAwIDQ0LjI1OCAzMy4yNDgg%0D%0AODIuMzQ4IDgyLjY3MiA4Mi4zNDggNDQuNzQyIDAgODEuMzk3LTM0LjE5NyA4MS4zOTctODEuMzk3%0D%0AIDAtNTQuMDk4LTQyLjY0LTgxLjk2LTgxLjk2LTgxLjk2em0uNDc2IDMyLjA4MmMyMy41MjIgMCA0%0D%0ANS44MTIgMTkuMDE3IDQ1LjgxMiA0OS42NiAwIDI5Ljk5My0yMi4xOTUgNDkuNTUyLTQ1LjkyIDQ5%0D%0ALjU1Mi0yNi4wNjggMC00Ni42MzMtMjAuODc4LTQ2LjYzMy00OS43OSAwLTI4LjI5MiAyMC4zMS00%0D%0AOS40MjIgNDYuNzQtNDkuNDIyeiIgZmlsbD0iI2VhNDMzNSIvPjxwYXRoIGQ9Ik01MjAuMTggOTEu%0D%0AMTNjLTQ3LjgzMiAwLTgyLjExIDM3LjM5NC04Mi4xMSA4MS4wMDcgMCA0NC4yNTggMzMuMjQ4IDgy%0D%0ALjM0OCA4Mi42NzIgODIuMzQ4IDQ0Ljc0MiAwIDgxLjM5Ny0zNC4xOTcgODEuMzk3LTgxLjM5NyAw%0D%0ALTU0LjA5OC00Mi42NC04MS45Ni04MS45Ni04MS45NnptLjQ3NiAzMi4wODJjMjMuNTIyIDAgNDUu%0D%0AODEyIDE5LjAxNyA0NS44MTIgNDkuNjYgMCAyOS45OTMtMjIuMTk1IDQ5LjU1Mi00NS45MiA0OS41%0D%0ANTItMjYuMDY4IDAtNDYuNjMzLTIwLjg3OC00Ni42MzMtNDkuNzkgMC0yOC4yOTIgMjAuMzEtNDku%0D%0ANDIyIDQ2Ljc0LTQ5LjQyMnoiIGZpbGw9IiNmYmJjMDUiLz48cGF0aCBkPSJNNjk1LjM0IDkxLjIx%0D%0ANWMtNDMuOTA0IDAtNzguNDE0IDM4LjQ1My03OC40MTQgODEuNjEzIDAgNDkuMTYzIDQwLjAxIDgx%0D%0ALjc2NSA3Ny42NTcgODEuNzY1IDIzLjI4IDAgMzUuNjU3LTkuMjQgNDQuNzk2LTE5Ljg0N3YxNi4x%0D%0AMDZjMCAyOC4xOC0xNy4xMSA0NS4wNTUtNDIuOTM3IDQ1LjA1NS0yNC45NSAwLTM3LjQ2My0xOC41%0D%0ANS00MS44MTItMjkuMDc4bC0zMS4zOSAxMy4xMjJjMTEuMTM2IDIzLjU0NyAzMy41NTQgNDguMTAz%0D%0AIDczLjQ2MyA0OC4xMDMgNDMuNjUyIDAgNzYuOTIyLTI3LjQ5NSA3Ni45MjItODUuMTZWOTYuMTI2%0D%0ASDczOS4zOHYxMy44MzdjLTEwLjUzLTExLjM0Ny0yNC45My0xOC43NDUtNDQuMDQtMTguNzQ1em0z%0D%0ALjE3OCAzMi4wMThjMjEuNTI1IDAgNDMuNjI4IDE4LjM4IDQzLjYyOCA0OS43NjggMCAzMS45MDUt%0D%0AMjIuMDU2IDQ5LjQ4OC00NC4xMDQgNDkuNDg4LTIzLjQwNiAwLTQ1LjE4NS0xOS4wMDUtNDUuMTg1%0D%0ALTQ5LjE4NCAwLTMxLjM1OCAyMi42Mi01MC4wNyA0NS42Ni01MC4wN3oiIGZpbGw9IiM0Mjg1ZjQi%0D%0ALz48cGF0aCBkPSJNOTI1Ljg5IDkxLjAyYy00MS40MTQgMC03Ni4xODcgMzIuOTUtNzYuMTg3IDgx%0D%0ALjU3IDAgNTEuNDQ3IDM4Ljc2IDgxLjk2IDgwLjE2NSA4MS45NiAzNC41NTggMCA1NS43NjgtMTgu%0D%0AOTA3IDY4LjQyNi0zNS44NDZsLTI4LjIzNS0xOC43ODdjLTcuMzI4IDExLjM3LTE5LjU3NyAyMi40%0D%0AODQtNDAuMDIgMjIuNDg0LTIyLjk2IDAtMzMuNTItMTIuNTczLTQwLjA2LTI0Ljc1M2wxMDkuNTIt%0D%0ANDUuNDQ0LTUuNjg2LTEzLjMxOGMtMTAuNTgtMjYuMDgtMzUuMjYtNDcuODYtNjcuOTItNDcuODZ6%0D%0AbTEuNDI3IDMxLjQxM2MxNC45MjMgMCAyNS42NjMgNy45MzQgMzAuMjI0IDE3LjQ0N2wtNzMuMTM4%0D%0AIDMwLjU3Yy0zLjE1My0yMy42NjcgMTkuMjctNDguMDE3IDQyLjkxNS00OC4wMTd6IiBmaWxsPSIj%0D%0AZWE0MzM1Ii8+PHBhdGggZD0iTTc5Ny40OSAyNDkuN2gzNS45NzVWOC45NUg3OTcuNDl6IiBmaWxs%0D%0APSIjMzRhODUzIi8+PC9zdmc+",
+						"socials": [{
+							"name": "LinkedIn",
+							"link": "https://www.linkedin.com/in/manasi-joshi-b51a856/",
+							"icon": "linkedin"
+						}],
+						"country": "Mountain View, USA",
+						"bio": "Director of Software Engineering, Google Manasi Joshi is a Director of Software Engineering at Google. She leads the Machine Learning Productivity efforts as part of Research/Google Brain team. She and her team focus on making ML modeling pipelines highly efficient and partner with modelers to ensure that the models are reliable and scalable. She collaborates closely with teams in Research as well as non Research product engagement efforts including parts of Google Cloud. Prior to founding and leading the ML Productivity team, Manasi led teams in the Display Ads Infrastructure Product Area at Google with a focus on improving engineering productivity across product landscapes. Her focus was on developing Serving Infra and Ads Privacy for over 10 years. Manasi is driven by fairness and advocacy in AI and in the workplace. She served on the Ads Diversity Council for 3 years prior to moving to Google Research Team and is currently pioneering the ML fairness efforts in her current team. Manasi earned her Masters in Computer Science from the University of Minnesota (Go Gophers) and joined Google in 2005. Manasi was born and raised in Pune"
+					}, {
+						"company": "Google",
+						"companyLogoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAwIiBoZWln%0D%0AaHQ9IjMyOC41NiI+PHBhdGggZD0iTTI0Ni4xMSAxMTYuMThIMTI5LjU0djM0LjU5aDgyLjY3M2Mt%0D%0ANC4wODQgNDguNTA3LTQ0LjQ0IDY5LjE5My04Mi41MzMgNjkuMTkzLTQ4LjczNiAwLTkxLjI2NC0z%0D%0AOC4zNDYtOTEuMjY0LTkyLjA5MiAwLTUyLjM1NiA0MC41NC05Mi42NzggOTEuMzctOTIuNjc4IDM5%0D%0ALjIxOCAwIDYyLjMyNyAyNSA2Mi4zMjcgMjVsMjQuMjItMjUuMDhTMTg1LjI0Ni41IDEyOC41NS41%0D%0AQzU2LjM1LjUwMy41IDYxLjQzNy41IDEyNy4yNTNjMCA2NC40OTQgNTIuNTM4IDEyNy4zOCAxMjku%0D%0AODkgMTI3LjM4IDY4LjAzIDAgMTE3LjgzLTQ2LjYwMyAxMTcuODMtMTE1LjUyIDAtMTQuNTM4LTIu%0D%0AMTEyLTIyLjk0LTIuMTEyLTIyLjk0eiIgZmlsbD0iIzQyODVmNCIvPjxwYXRoIGQ9Ik0zNDEuNiA5%0D%0AMS4xM2MtNDcuODMyIDAtODIuMTEgMzcuMzk0LTgyLjExIDgxLjAwNyAwIDQ0LjI1OCAzMy4yNDgg%0D%0AODIuMzQ4IDgyLjY3MiA4Mi4zNDggNDQuNzQyIDAgODEuMzk3LTM0LjE5NyA4MS4zOTctODEuMzk3%0D%0AIDAtNTQuMDk4LTQyLjY0LTgxLjk2LTgxLjk2LTgxLjk2em0uNDc2IDMyLjA4MmMyMy41MjIgMCA0%0D%0ANS44MTIgMTkuMDE3IDQ1LjgxMiA0OS42NiAwIDI5Ljk5My0yMi4xOTUgNDkuNTUyLTQ1LjkyIDQ5%0D%0ALjU1Mi0yNi4wNjggMC00Ni42MzMtMjAuODc4LTQ2LjYzMy00OS43OSAwLTI4LjI5MiAyMC4zMS00%0D%0AOS40MjIgNDYuNzQtNDkuNDIyeiIgZmlsbD0iI2VhNDMzNSIvPjxwYXRoIGQ9Ik01MjAuMTggOTEu%0D%0AMTNjLTQ3LjgzMiAwLTgyLjExIDM3LjM5NC04Mi4xMSA4MS4wMDcgMCA0NC4yNTggMzMuMjQ4IDgy%0D%0ALjM0OCA4Mi42NzIgODIuMzQ4IDQ0Ljc0MiAwIDgxLjM5Ny0zNC4xOTcgODEuMzk3LTgxLjM5NyAw%0D%0ALTU0LjA5OC00Mi42NC04MS45Ni04MS45Ni04MS45NnptLjQ3NiAzMi4wODJjMjMuNTIyIDAgNDUu%0D%0AODEyIDE5LjAxNyA0NS44MTIgNDkuNjYgMCAyOS45OTMtMjIuMTk1IDQ5LjU1Mi00NS45MiA0OS41%0D%0ANTItMjYuMDY4IDAtNDYuNjMzLTIwLjg3OC00Ni42MzMtNDkuNzkgMC0yOC4yOTIgMjAuMzEtNDku%0D%0ANDIyIDQ2Ljc0LTQ5LjQyMnoiIGZpbGw9IiNmYmJjMDUiLz48cGF0aCBkPSJNNjk1LjM0IDkxLjIx%0D%0ANWMtNDMuOTA0IDAtNzguNDE0IDM4LjQ1My03OC40MTQgODEuNjEzIDAgNDkuMTYzIDQwLjAxIDgx%0D%0ALjc2NSA3Ny42NTcgODEuNzY1IDIzLjI4IDAgMzUuNjU3LTkuMjQgNDQuNzk2LTE5Ljg0N3YxNi4x%0D%0AMDZjMCAyOC4xOC0xNy4xMSA0NS4wNTUtNDIuOTM3IDQ1LjA1NS0yNC45NSAwLTM3LjQ2My0xOC41%0D%0ANS00MS44MTItMjkuMDc4bC0zMS4zOSAxMy4xMjJjMTEuMTM2IDIzLjU0NyAzMy41NTQgNDguMTAz%0D%0AIDczLjQ2MyA0OC4xMDMgNDMuNjUyIDAgNzYuOTIyLTI3LjQ5NSA3Ni45MjItODUuMTZWOTYuMTI2%0D%0ASDczOS4zOHYxMy44MzdjLTEwLjUzLTExLjM0Ny0yNC45My0xOC43NDUtNDQuMDQtMTguNzQ1em0z%0D%0ALjE3OCAzMi4wMThjMjEuNTI1IDAgNDMuNjI4IDE4LjM4IDQzLjYyOCA0OS43NjggMCAzMS45MDUt%0D%0AMjIuMDU2IDQ5LjQ4OC00NC4xMDQgNDkuNDg4LTIzLjQwNiAwLTQ1LjE4NS0xOS4wMDUtNDUuMTg1%0D%0ALTQ5LjE4NCAwLTMxLjM1OCAyMi42Mi01MC4wNyA0NS42Ni01MC4wN3oiIGZpbGw9IiM0Mjg1ZjQi%0D%0ALz48cGF0aCBkPSJNOTI1Ljg5IDkxLjAyYy00MS40MTQgMC03Ni4xODcgMzIuOTUtNzYuMTg3IDgx%0D%0ALjU3IDAgNTEuNDQ3IDM4Ljc2IDgxLjk2IDgwLjE2NSA4MS45NiAzNC41NTggMCA1NS43NjgtMTgu%0D%0AOTA3IDY4LjQyNi0zNS44NDZsLTI4LjIzNS0xOC43ODdjLTcuMzI4IDExLjM3LTE5LjU3NyAyMi40%0D%0AODQtNDAuMDIgMjIuNDg0LTIyLjk2IDAtMzMuNTItMTIuNTczLTQwLjA2LTI0Ljc1M2wxMDkuNTIt%0D%0ANDUuNDQ0LTUuNjg2LTEzLjMxOGMtMTAuNTgtMjYuMDgtMzUuMjYtNDcuODYtNjcuOTItNDcuODZ6%0D%0AbTEuNDI3IDMxLjQxM2MxNC45MjMgMCAyNS42NjMgNy45MzQgMzAuMjI0IDE3LjQ0N2wtNzMuMTM4%0D%0AIDMwLjU3Yy0zLjE1My0yMy42NjcgMTkuMjctNDguMDE3IDQyLjkxNS00OC4wMTd6IiBmaWxsPSIj%0D%0AZWE0MzM1Ii8+PHBhdGggZD0iTTc5Ny40OSAyNDkuN2gzNS45NzVWOC45NUg3OTcuNDl6IiBmaWxs%0D%0APSIjMzRhODUzIi8+PC9zdmc+",
+						"socials": [{
+							"name": "LinkedIn",
+							"link": "https://www.linkedin.com/in/sandeep-gupta-a71a343/",
+							"icon": "linkedin"
+						}, {
+							"name": "Twitter",
+							"link": "https://twitter.com/TheSandeepGupta",
+							"icon": "twitter"
+						}],
+						"country": "San Francisco, USA",
+						"bio": "SANDEEP GUPTA is a Product Manager for TensorFlow at Google, where he helps develop and drive the roadmap for TensorFlow (Google’s open-source library and framework for machine learning) for supporting machine learning applications and research. His current focus is on TensorFlow’s 2.0 release, improving TensorFlow’s usability and driving adoption in the community and enterprise, and on TensorFlow.js - a library bringing Machine Learning to JavaScript developers. Sandeep is excited about how Machine Learning and AI are transforming our lives in a wide variety of ways, and works with the Google team and external partners to help create powerful, scalable solutions for all.   Prior to joining Google, Sandeep was the technology leader for advanced imaging and analytics research and development at GE Global Research with specific emphasis on medical imaging and healthcare analytics.",
+						"shortBio": "Sandeep is a Product Manager for TensorFlow at Google",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/sandeep.jpg?raw=true",
+						"name": "Sandeep Gupta",
+						"id": "sandeep_gupta",
+						"tags": ["ML", "AI"],
+						"companyLogo": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAwIiBoZWln%0D%0AaHQ9IjMyOC41NiI+PHBhdGggZD0iTTI0Ni4xMSAxMTYuMThIMTI5LjU0djM0LjU5aDgyLjY3M2Mt%0D%0ANC4wODQgNDguNTA3LTQ0LjQ0IDY5LjE5My04Mi41MzMgNjkuMTkzLTQ4LjczNiAwLTkxLjI2NC0z%0D%0AOC4zNDYtOTEuMjY0LTkyLjA5MiAwLTUyLjM1NiA0MC41NC05Mi42NzggOTEuMzctOTIuNjc4IDM5%0D%0ALjIxOCAwIDYyLjMyNyAyNSA2Mi4zMjcgMjVsMjQuMjItMjUuMDhTMTg1LjI0Ni41IDEyOC41NS41%0D%0AQzU2LjM1LjUwMy41IDYxLjQzNy41IDEyNy4yNTNjMCA2NC40OTQgNTIuNTM4IDEyNy4zOCAxMjku%0D%0AODkgMTI3LjM4IDY4LjAzIDAgMTE3LjgzLTQ2LjYwMyAxMTcuODMtMTE1LjUyIDAtMTQuNTM4LTIu%0D%0AMTEyLTIyLjk0LTIuMTEyLTIyLjk0eiIgZmlsbD0iIzQyODVmNCIvPjxwYXRoIGQ9Ik0zNDEuNiA5%0D%0AMS4xM2MtNDcuODMyIDAtODIuMTEgMzcuMzk0LTgyLjExIDgxLjAwNyAwIDQ0LjI1OCAzMy4yNDgg%0D%0AODIuMzQ4IDgyLjY3MiA4Mi4zNDggNDQuNzQyIDAgODEuMzk3LTM0LjE5NyA4MS4zOTctODEuMzk3%0D%0AIDAtNTQuMDk4LTQyLjY0LTgxLjk2LTgxLjk2LTgxLjk2em0uNDc2IDMyLjA4MmMyMy41MjIgMCA0%0D%0ANS44MTIgMTkuMDE3IDQ1LjgxMiA0OS42NiAwIDI5Ljk5My0yMi4xOTUgNDkuNTUyLTQ1LjkyIDQ5%0D%0ALjU1Mi0yNi4wNjggMC00Ni42MzMtMjAuODc4LTQ2LjYzMy00OS43OSAwLTI4LjI5MiAyMC4zMS00%0D%0AOS40MjIgNDYuNzQtNDkuNDIyeiIgZmlsbD0iI2VhNDMzNSIvPjxwYXRoIGQ9Ik01MjAuMTggOTEu%0D%0AMTNjLTQ3LjgzMiAwLTgyLjExIDM3LjM5NC04Mi4xMSA4MS4wMDcgMCA0NC4yNTggMzMuMjQ4IDgy%0D%0ALjM0OCA4Mi42NzIgODIuMzQ4IDQ0Ljc0MiAwIDgxLjM5Ny0zNC4xOTcgODEuMzk3LTgxLjM5NyAw%0D%0ALTU0LjA5OC00Mi42NC04MS45Ni04MS45Ni04MS45NnptLjQ3NiAzMi4wODJjMjMuNTIyIDAgNDUu%0D%0AODEyIDE5LjAxNyA0NS44MTIgNDkuNjYgMCAyOS45OTMtMjIuMTk1IDQ5LjU1Mi00NS45MiA0OS41%0D%0ANTItMjYuMDY4IDAtNDYuNjMzLTIwLjg3OC00Ni42MzMtNDkuNzkgMC0yOC4yOTIgMjAuMzEtNDku%0D%0ANDIyIDQ2Ljc0LTQ5LjQyMnoiIGZpbGw9IiNmYmJjMDUiLz48cGF0aCBkPSJNNjk1LjM0IDkxLjIx%0D%0ANWMtNDMuOTA0IDAtNzguNDE0IDM4LjQ1My03OC40MTQgODEuNjEzIDAgNDkuMTYzIDQwLjAxIDgx%0D%0ALjc2NSA3Ny42NTcgODEuNzY1IDIzLjI4IDAgMzUuNjU3LTkuMjQgNDQuNzk2LTE5Ljg0N3YxNi4x%0D%0AMDZjMCAyOC4xOC0xNy4xMSA0NS4wNTUtNDIuOTM3IDQ1LjA1NS0yNC45NSAwLTM3LjQ2My0xOC41%0D%0ANS00MS44MTItMjkuMDc4bC0zMS4zOSAxMy4xMjJjMTEuMTM2IDIzLjU0NyAzMy41NTQgNDguMTAz%0D%0AIDczLjQ2MyA0OC4xMDMgNDMuNjUyIDAgNzYuOTIyLTI3LjQ5NSA3Ni45MjItODUuMTZWOTYuMTI2%0D%0ASDczOS4zOHYxMy44MzdjLTEwLjUzLTExLjM0Ny0yNC45My0xOC43NDUtNDQuMDQtMTguNzQ1em0z%0D%0ALjE3OCAzMi4wMThjMjEuNTI1IDAgNDMuNjI4IDE4LjM4IDQzLjYyOCA0OS43NjggMCAzMS45MDUt%0D%0AMjIuMDU2IDQ5LjQ4OC00NC4xMDQgNDkuNDg4LTIzLjQwNiAwLTQ1LjE4NS0xOS4wMDUtNDUuMTg1%0D%0ALTQ5LjE4NCAwLTMxLjM1OCAyMi42Mi01MC4wNyA0NS42Ni01MC4wN3oiIGZpbGw9IiM0Mjg1ZjQi%0D%0ALz48cGF0aCBkPSJNOTI1Ljg5IDkxLjAyYy00MS40MTQgMC03Ni4xODcgMzIuOTUtNzYuMTg3IDgx%0D%0ALjU3IDAgNTEuNDQ3IDM4Ljc2IDgxLjk2IDgwLjE2NSA4MS45NiAzNC41NTggMCA1NS43NjgtMTgu%0D%0AOTA3IDY4LjQyNi0zNS44NDZsLTI4LjIzNS0xOC43ODdjLTcuMzI4IDExLjM3LTE5LjU3NyAyMi40%0D%0AODQtNDAuMDIgMjIuNDg0LTIyLjk2IDAtMzMuNTItMTIuNTczLTQwLjA2LTI0Ljc1M2wxMDkuNTIt%0D%0ANDUuNDQ0LTUuNjg2LTEzLjMxOGMtMTAuNTgtMjYuMDgtMzUuMjYtNDcuODYtNjcuOTItNDcuODZ6%0D%0AbTEuNDI3IDMxLjQxM2MxNC45MjMgMCAyNS42NjMgNy45MzQgMzAuMjI0IDE3LjQ0N2wtNzMuMTM4%0D%0AIDMwLjU3Yy0zLjE1My0yMy42NjcgMTkuMjctNDguMDE3IDQyLjkxNS00OC4wMTd6IiBmaWxsPSIj%0D%0AZWE0MzM1Ii8+PHBhdGggZD0iTTc5Ny40OSAyNDkuN2gzNS45NzVWOC45NUg3OTcuNDl6IiBmaWxs%0D%0APSIjMzRhODUzIi8+PC9zdmc+",
+						"title": "Product Manager, TensorFlow",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/sandeep.jpg?raw=true",
+						"order": 1,
+						"featured": true
+					}],
+					"title": "Machine Learning with TensorFlow",
+					"endTime": "10:45",
+					"startTime": "09:45"
+				}],
+				"gridArea": "4 / 1 / 4 / 4"
+			}]
+		}, {
+			"endTime": "11:15",
+			"startTime": "10:45",
+			"sessions": [{
+				"items": [{
+					"mainTag": "General",
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 30,
+						"hh": 0
+					},
+					"language": "English",
+					"description": "",
+					"track": {
+						"title": "Expo hall"
+					},
+					"id": 104,
+					"speakers": [],
+					"title": "Tea and Networking and Stalls Visit",
+					"endTime": "11:15",
+					"startTime": "10:45"
+				}],
+				"gridArea": "5 / 1 / 5 / 4"
+			}]
+		}, {
+			"endTime": "11:45",
+			"startTime": "11:15",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 30,
+						"hh": 0
+					},
+					"language": "English",
+					"description": "",
+					"track": {
+						"title": "Expo hall"
+					},
+					"id": 105,
+					"speakers": [{
+						"shortBio": "Bruce is the co-founder and director of communications at Netmeds",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Bruce-Schwack.png?raw=true",
+						"name": "Bruce Schwack",
+						"id": " bruce_schwack",
+						"companyLogo": "https://hotydeals.com/wp-content/uploads/2015/02/Netmeds-logo-1546541182226.png",
+						"title": "Co-Founder and Director of Communications",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Bruce-Schwack.png?raw=true",
+						"order": 7,
+						"featured": false,
+						"company": "Netmeds",
+						"companyLogoUrl": "https://hotydeals.com/wp-content/uploads/2015/02/Netmeds-logo-1546541182226.png",
+						"socials": [{
+							"name": "Twitter",
+							"link": "https://www.linkedin.com/in/schwackattack/",
+							"icon": "linkedin"
+						}, {
+							"name": "Twitter",
+							"link": "https://twitter.com/schwackattack77",
+							"icon": "twitter"
+						}],
+						"country": "India",
+						"bio": "Bruce Schwack is Director of Communications for Netmeds.com, India’s largest licensed e-pharmacy where he oversees the firm's communications and it’s multi-channel customer interactions, and participates in development of the companies ad campaigns and TVC's. He has worked with Netmeds CEO and Founder Pradeep Dadha for many years as they built a global marketing and logistics company, and in 2015 he helped to launch Netmeds.  His aim is to inspire and motivate each of member of the team, and to instill the importance and true meaning of customer “service.” His plan is to keep growing personally and transferring his knowledge and understanding of “behavior economics”, and to deploy emerging machine learning  and AI, not to replace Netmeds’ employees, but to help them be more efficient,  while assuring that Netmeds maintains brand leadership in the emerging “epharma” space.   He’s an avid fitness enthusiast and travel aficionado and plays golf and visit jungle habitats wherever he goes. He loves to spend his free time with his pups, Layla and Majnun and can be regularly seen enjoying Marina Beach.  Bruce is actively involved in social causes as well and is associated with the Love Care Centre, an orphanage in Kancheepuram."
+					}],
+					"title": "Lemons to Lemonade : Finding the sweet spot in customer experience",
+					"endTime": "11:45",
+					"startTime": "11:15"
+				}],
+				"gridArea": "6 / 1 / 6 / 4"
+			}]
+		}, {
+			"endTime": "12:15",
+			"startTime": "11:45",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 30,
+						"hh": 0
+					},
+					"language": "English",
+					"description": "",
+					"track": {
+						"title": "Expo hall"
+					},
+					"speakers": [{
+						"shortBio": "Akash Sureka, an entrepreneur with more than 20+ years of varied technology products and business leadership experience.",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Akash.jpg?raw=true",
+						"name": "Akash Sureka",
+						"id": "akash_sureka",
+						"companyLogo": "https://www.icertis.com/wp-content/uploads/2018/02/logo.png",
+						"title": "General Manager",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Akash.jpg?raw=true",
+						"order": 3,
+						"featured": true,
+						"company": "iCertis",
+						"companyLogoUrl": "https://www.icertis.com/wp-content/uploads/2018/02/logo.png",
+						"socials": [{
+							"link": "https://www.linkedin.com/in/akash-sureka-572ba54/",
+							"icon": "linkedin",
+							"name": "LinkedIn"
+						}, {
+							"name": "Twitter",
+							"link": "https://twitter.com/akashsureka",
+							"icon": "twitter"
+						}],
+						"country": "Pune, India",
+						"bio": "Akash Sureka, an entrepreneur with successful exit to a public company, comes with a strong  background with more than 20+ years of varied technology products and business leadership experience in Global technology companies – having worked, handled and owned global businesses and products, global partnerships, Enterprise SaaS  and Consumer Internet technologies, being building and delivering global products in marquee companies like NVIDIA, Bilcare, Persistent Systems, Nokia, & Motorola. Akash has worked and created global Consumer Internet, SaaS, Enterprise products, and solutions and delivered to global customers. Akash has served as a CEO of an Enterprise SaaS company which was later acquired by SoftwareAG. Akash was also the Founder & CEO of Hoopz a global product startup company in the mobile internet ecosystem, now acquired by Persistent Systems Limited (BSE Listed company, billion-dollar market cap) having built world-class products and solutions in mobility, artificial intelligence, search & discovery, machine learning, digital advertisements, and personalization."
+					}],
+					"id": 106,
+					"title": "Quantum Computing and Applications",
+					"endTime": "12:15",
+					"startTime": "11:45"
+				}],
+				"gridArea": "7 / 1 / 7 / 4"
+			}]
+		}, {
+			"endTime": "12:45",
+			"startTime": "12:15",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 30,
+						"hh": 0
+					},
+					"language": "English",
+					"description": "",
+					"track": {
+						"title": "Expo hall"
+					},
+					"speakers": [{
+						"shortBio": "Kumar Rangarajan is a serial entrepreneur and the founder of Slang Labs",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/kumar.jpeg?raw=true",
+						"name": "Kumar Rangarajan",
+						"id": "kumar_rangarajan",
+						"companyLogo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/Slang%20Lab.png?raw=true",
+						"title": "Obsessive Dictator",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/kumar.jpeg?raw=true",
+						"order": 2,
+						"featured": true,
+						"company": "Slang Labs",
+						"companyLogoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/Slang%20Lab.png?raw=true",
+						"socials": [{
+							"link": "https://www.linkedin.com/in/kumarrangarajan/",
+							"icon": "linkedin",
+							"name": "LinkedIn"
+						}, {
+							"name": "Twitter",
+							"link": "https://twitter.com/kumrr",
+							"icon": "twitter"
+						}],
+						"country": "Banglore, India",
+						"bio": "Kumar Rangarajan is one of the co-founders of Slang Labs, a platform that enables companies to integrate voice augmented experiences (VAX) to their apps  Kumar envisions a future where users are able to get things done in their apps, by just talking to it, in the language of their choice.   Prior to starting Slang Labs, Kumar had founded Little Eye Labs which was acquired by Facebook in the year 2014. This acquisition also made Little Eye Labs the first Indian start-up to be acquired by Facebook. Post this acquisition, Kumar joined Facebook’s headquarters in the United States where he worked for 3 years before returning to India to start Slang Labs.   Kumar has a rich IT background and has held engineering and leadership positions at various companies.   His larger goal is to make the internet more accessible and engaging for the user."
+					}],
+					"title": "Building Voice Augmented eXperiences in Apps",
+					"id": 107,
+					"endTime": "12:45",
+					"startTime": "12:15"
+				}],
+				"gridArea": "8 / 1 / 8 / 4"
+			}]
+		}, {
+			"endTime": "13:15",
+			"startTime": "12:45",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 30,
+						"hh": 0
+					},
+					"language": "English",
+					"description": "",
+					"track": {
+						"title": "Expo hall"
+					},
+					"id": 108,
+					"speakers": [{
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Priyam.jpeg?raw=true",
+						"order": 4,
+						"featured": false,
+						"company": "Truecaller",
+						"companyLogoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/TrueCaller_Logo.png?raw=true",
+						"socials": [{
+							"link": "https://www.linkedin.com/in/priyam-bose-2373aa9/",
+							"icon": "linkedin",
+							"name": "LinkedIn"
+						}, {
+							"name": "Twitter",
+							"link": "https://twitter.com/pribos19",
+							"icon": "twitter"
+						}],
+						"country": "Gurgaon, India",
+						"bio": "Priyam Bose is the Global Head & Director, Developer Platform and Developer/Startup Relations at Truecaller",
+						"shortBio": "Priyam Bose is the Global Head & Director, Developer Platform and Developer/Startup Relations at Truecaller",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Priyam.jpeg?raw=true",
+						"name": "Priyam Bose",
+						"id": "priyam_bose",
+						"companyLogo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/TrueCaller_Logo.png?raw=true",
+						"title": "Global Head & Director, Developer Platform and Developer/Startup Relations"
+					}],
+					"endTime": "13:15",
+					"startTime": "12:45"
+				}],
+				"gridArea": "9 / 1 / 9 / 4"
+			}]
+		}, {
+			"endTime": "13:45",
+			"startTime": "13:15",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 30,
+						"hh": 0
+					},
+					"language": "English",
+					"description": "",
+					"track": {
+						"title": "Expo hall"
+					},
+					"id": 122,
+					"title": "TBD",
+					"speakers": [{
+						"shortBio": "...",
+						"photoUrl": "",
+						"name": "Dr. Ashwin Porwal",
+						"id": "ashwin",
+						"companyLogo": "https://www.healinghandsclinic.co.in/images/logo.png",
+						"title": "Founder",
+						"photo": "",
+						"order": 16,
+						"featured": false,
+						"company": "Healing Hands Clinic, Pune",
+						"companyLogoUrl": "https://www.healinghandsclinic.co.in/images/logo.png",
+						"socials": [{
+							"name": "LinkedIn",
+							"link": "https://www.linkedin.com/in/dr-ashwin-porwal-960a48163/",
+							"icon": "linkedin"
+						}],
+						"country": "Pune, India",
+						"bio": "Coming soon"
+					}],
+					"endTime": "13:45",
+					"startTime": "13:15"
+				}],
+				"gridArea": "10 / 1 / 10 / 4"
+			}]
+		}, {
+			"endTime": "14:45",
+			"startTime": "13:45",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 0,
+						"hh": 1
+					},
+					"track": {
+						"title": "Expo hall"
+					},
+					"id": 109,
+					"title": "Lunch",
+					"language": "English",
+					"description": "Foooooooood!",
+					"image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+					"mainTag": "General",
+					"icon": "lunch",
+					"endTime": "14:45",
+					"startTime": "13:45"
+				}],
+				"gridArea": "11 / 1 / 11 / 4"
+			}]
+		}, {
+			"endTime": "15:05",
+			"startTime": "14:45",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 20,
+						"hh": 0
+					},
+					"language": "English",
+					"description": "",
+					"track": {
+						"title": "Big ball room"
+					},
+					"speakers": [{
+						"id": "arti",
+						"companyLogo": "https://www.thoughtworks.com/imgs/tw-logo.svg",
+						"title": "Lead Consultant",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Arti-Pande.png?raw=true",
+						"order": 6,
+						"featured": false,
+						"company": "ThoughtWorks",
+						"companyLogoUrl": "https://www.thoughtworks.com/imgs/tw-logo.svg",
+						"socials": [{
+							"name": "LinkedIn",
+							"link": "https://www.linkedin.com/in/artipande/",
+							"icon": "linkedin"
+						}],
+						"country": "India",
+						"bio": "Arti Pande is a Lead Consultant at ThoughtWorks with 13+ years of experience. Her skills primarily include Java, Scala, Python with enterprise and big data technologies. Her areas of interest include scalable enterprise systems, data intensive computing and Internet of Things.",
+						"shortBio": "Arti Pande is a Lead Consultant at ThoughtWorks ",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Arti-Pande.png?raw=true",
+						"name": "Arti Pande "
+					}, {
+						"order": 24,
+						"featured": false,
+						"company": "ThoughtWorks",
+						"companyLogoUrl": "https://www.thoughtworks.com/imgs/tw-logo.svg",
+						"socials": [{
+							"name": "LinkedIn",
+							"link": "https://www.linkedin.com/in/prathamesh-kalamkar-16282521/",
+							"icon": "linkedin"
+						}],
+						"country": "",
+						"bio": "Prathamesh Kalamkar Senior Data Scientist at ThoughtWorks with 8+ years experience. His skills primarily involve Machine Learning and Artificial Intelligence. His areas of interest are Natural Language Processing, Bayseian Inference, Deep Learning and Internet of Things.",
+						"shortBio": "Prathamesh Kalamkar Senior Data Scientist at ThoughtWorks with 8+ years experience.",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Prathamesh.jpg?raw=true",
+						"name": "Prathamesh Kalamkar",
+						"id": "prathamesh",
+						"companyLogo": "https://www.thoughtworks.com/imgs/tw-logo.svg",
+						"title": "Senior Data Scientist",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Prathamesh.jpg?raw=true"
+					}],
+					"title": "Intelligent Retail Pricing",
+					"id": 110,
+					"endTime": "15:05",
+					"startTime": "14:45"
+				}],
+				"gridArea": "12 / 1 / 12 / 4"
+			}]
+		}, {
+			"endTime": "15:15",
+			"startTime": "14:45",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 30,
+						"hh": 0
+					},
+					"language": "English",
+					"description": "Functional Programming(FP) has become the all the rage at the moment. Maybe you have been wanting to have a look at it but haven't or you already have given it a go but got scared away with all the FP jargon (We are looking at you Monads). In this talk, we will look at how to get started with FP using Kotlin with the existing knowledge you have and look at how we can start moving towards FP by making a few changes(trust me, no talking about the jargon or 3rd party libraries) in your day to day activities. I will also talk about my journey about going from OOP to FP. We will look at some of the mistakes I did and some of the approaches I took while learning FP. We will also create a simple structured approach to start learning/implementing FP in your existing code so that you can learn by doing. We will see real life practical examples of implementing FP in your Android project by converting a few samples from OOP to FP. At the end of the talk we will look at why a library like Arrow-KT can be useful once you have mastered the basics of FP and also how to approach Arrow-KT for your FP needs.",
+					"track": {
+						"title": "Small ball room"
+					},
+					"id": 111,
+					"speakers": [{
+						"company": "RedMart",
+						"companyLogoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/RedMart.png?raw=true",
+						"socials": [{
+							"name": "LinkedIn",
+							"link": "https://www.linkedin.com/in/adnan-a-m-9b378955/",
+							"icon": "linkedin"
+						}, {
+							"name": "Twitter",
+							"link": "https://twitter.com/adnanM0123",
+							"icon": "twitter"
+						}],
+						"country": "Bangalore, India",
+						"bio": "Adnan is a seasoned Android developer working with RedMart. His area of focus has generally been writing large scalable code, improving UX and overall app performance. He has a lot of domain knowledge and exposure with E-Commerce domain and used to previously work at BookMyShow, where he went to rewrite the entire app from scratch.",
+						"shortBio": "Adnan is a senior software engineer, RedMart",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Adnan.jpg?raw=true",
+						"name": "Adnan A M",
+						"id": "adnan",
+						"companyLogo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/RedMart.png?raw=true",
+						"title": "Senior Software Engineer",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Adnan.jpg?raw=true",
+						"order": 8,
+						"featured": false
+					}],
+					"title": "From OOP To FP - Android",
+					"endTime": "15:15",
+					"startTime": "14:45"
+				}],
+				"gridArea": "13 / 1 / 13 / 4"
+			}]
+		}, {
+			"endTime": "15:25",
+			"startTime": "15:05",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 20,
+						"hh": 0
+					},
+					"language": "English",
+					"speakers": [{
+						"title": "Office Tech Principal",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Gyanendra%20Yadav.jpeg?raw=true",
+						"order": 13,
+						"featured": false,
+						"company": "ThoughtWorks",
+						"companyLogoUrl": "https://www.thoughtworks.com/imgs/tw-logo.svg",
+						"socials": [{
+							"link": "https://www.linkedin.com/in/yadavgyanendra/",
+							"icon": "linkedin",
+							"name": "LinkedIn"
+						}, {
+							"name": "Twitter",
+							"link": "https://twitter.com/twit_gyani",
+							"icon": "twitter"
+						}],
+						"country": "Pune, India",
+						"bio": "Gyanendra Yadav is currently playing Office Tech Principal for ThoughtWorks Pune where he is looking at tech governance,capability building and supporting internal and external tech communities. He has worked on products and platforms across different domains and tech stacks, helping enterprises build scalable and performant solutions.His recent focus has been on building distributed event driven systems for enterprises in the financial sector. XP practitioner and advocate.He is passionate about football and in general very interested in sports.",
+						"shortBio": "Gyanendra Yadav is currently playing Office Tech Principal for ThoughtWorks Pune. ",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Gyanendra%20Yadav.jpeg?raw=true",
+						"name": "Gyanendra Yadav",
+						"id": "gyanendra",
+						"companyLogo": "https://www.thoughtworks.com/imgs/tw-logo.svg"
+					}, {
+						"shortBio": "Hameet Gil is holding Office Principal role with ThoughtWorks. ",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/HameetGill.jpeg?raw=true",
+						"name": "Hameet Gill",
+						"id": "hameet",
+						"companyLogo": "https://www.thoughtworks.com/imgs/tw-logo.svg",
+						"title": "Office Tech Principal",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/HameetGill.jpeg?raw=true",
+						"order": 14,
+						"featured": false,
+						"company": "ThoughtWorks",
+						"companyLogoUrl": "https://www.thoughtworks.com/imgs/tw-logo.svg",
+						"socials": [{
+							"name": "LinkedIn",
+							"link": "https://www.linkedin.com/in/hameet/",
+							"icon": "linkedin"
+						}],
+						"country": "",
+						"bio": "Hameet Gil is holding Office Principal role with ThoughtWorks where she is responsible for people and office growth. She has extensive experience in delivering technology programs. She has spent 14 years in the IT industry and during this time she has donned various hats like - Business Analyst, Product Manager, Capability Lead, Delivery Coach, Office Principal. She is an avid reader and like reading about the new trends and how these impact people's life"
+					}],
+					"title": "Building Equitable Tech",
+					"track": {
+						"title": "Big ball room"
+					},
+					"id": 112,
+					"description": "It is our responsibility as technologists to understand the societal implications of emerging tech including how we can combat algorithm bias, collect data more responsibility, and build inclusive AI. We just don’t use technology anymore, we live it and it has deep impacts on various levels , from individual ,society ,nations and humans. We will talk about frameworks & toolkits which we use to facilitate us having these conversations and looking at software delivery from Equitable tech perspective.",
+					"endTime": "15:25",
+					"startTime": "15:05"
+				}],
+				"gridArea": "14 / 1 / 14 / 4"
+			}]
+		}, {
+			"endTime": "15:45",
+			"startTime": "15:15",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 30,
+						"hh": 0
+					},
+					"language": "English",
+					"speakers": [{
+						"company": "Machine Learning",
+						"companyLogoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/WhatsApp%20Image%202019-09-23%20at%205.32.05%20PM.jpeg?raw=true",
+						"socials": [{
+							"name": "LinkedIn",
+							"link": "https://www.linkedin.com/in/sriranjani-ramakrishnan-694307114/",
+							"icon": "linkedin"
+						}],
+						"country": "India",
+						"bio": "Sriranjani Ramakrishnan is a machine learning researcher and engineer, recognized as a Google Developer Expert (GDE) in Machine Learning. With over four years of industrial experience, she has developed expertise in utilizing machine learning and deep learning techniques to find innovative solutions to real-world business problems. She holds a M.S. (by research) degree from IIT Madras. Her areas of  interest includes machine learning, deep learning, natural language  processing and speech recognition.",
+						"shortBio": "Sriranjani Ramakrishnan is a Google Developer Expert (GDE) in Machine Learning.",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Sriranjani%20.jpg?raw=true",
+						"name": "Sriranjani Ramakrishnan",
+						"id": "sriranjani",
+						"companyLogo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/WhatsApp%20Image%202019-09-23%20at%205.32.05%20PM.jpeg?raw=true",
+						"title": "Google Developer Experts",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Sriranjani%20.jpg?raw=true",
+						"order": 15,
+						"featured": false
+					}],
+					"title": "An Introduction to Domain Adaption",
+					"description": "The talk will introduce and provide motivation for the problem of Domain Adaptation, cover different adaptation methodologies and how to solve the problem with its applications.",
+					"track": {
+						"title": "Small ball room"
+					},
+					"id": 113,
+					"endTime": "15:45",
+					"startTime": "15:15"
+				}],
+				"gridArea": "15 / 1 / 15 / 4"
+			}]
+		}, {
+			"endTime": "16:10",
+			"startTime": "15:25",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 45,
+						"hh": 0
+					},
+					"speakers": [{
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Vaibhavi%20Gondil%20Profile%202019.jpeg?raw=true",
+						"order": 11,
+						"featured": false,
+						"company": "VuCLip",
+						"companyLogoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/VuClip.png?raw=true",
+						"socials": [{
+							"name": "LinkedIn",
+							"link": "https://www.linkedin.com/in/vaibhavi-gondil-a997895/",
+							"icon": "linkedin"
+						}],
+						"country": "Pune, India",
+						"bio": "Senior Director of Technology at Vuclip. 20+ years experience building platforms in enterprise & consumer businesses like Vuclip, Cisco, BMC Software, Fujitsu etc both in India & the US. Public cloud advocate. Avid traveller & reader. Game of Thrones fanatic.",
+						"shortBio": "Senior Director of Technology at VuClip",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Vaibhavi%20Gondil%20Profile%202019.jpeg?raw=true",
+						"name": "Vaibhavi Gondil",
+						"id": "vaibhavi_gondil",
+						"companyLogo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/VuClip.png?raw=true",
+						"title": "Senior Director of Technology at Vuclip"
+					}, {
+						"order": 10,
+						"featured": false,
+						"company": "VuCLip",
+						"companyLogoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/VuClip.png?raw=true",
+						"socials": [{
+							"link": "https://www.linkedin.com/in/himanshushrotri/",
+							"icon": "linkedin",
+							"name": "LinkedIn"
+						}],
+						"country": "Pune, India",
+						"bio": "Sr. Manager, Insights at Vuclip. Data enthusiast with over 16 years of experience in planning, developing and managing Data Warehousing, Data Analytics and Data Quality applications for companies like General Electric, Credit Suisse, Vuclip.",
+						"shortBio": "Senior Manager at VuClip",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/himanshus.png?raw=true",
+						"name": "Himanshu Shrotri",
+						"id": "himanshu_shrotri",
+						"companyLogo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/VuClip.png?raw=true",
+						"title": " Sr. Manager, Insights at Vuclip",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/himanshus.png?raw=true"
+					}],
+					"title": "The road to the google cloud native",
+					"language": "English",
+					"description": "What does it take to move a consumer-facing business serving millions of consumers every day to public cloud? How does one choose Google Cloud over its competitors? How can Google Cloud native technologies be leveraged to build a data platform with 100+ TB of data? How is leveraging the public cloud to serve consumers in emerging markets different from serving those in first world markets? What are the advantages and pitfalls of being early adopters of technology such as Google Cloud Dataflow, BigQuery, ML Engine, Datastore, Spanner, Cloud Functions, AutoML etc?",
+					"track": {
+						"title": "Big ball room"
+					},
+					"id": 114,
+					"endTime": "16:10",
+					"startTime": "15:25"
+				}],
+				"gridArea": "16 / 1 / 16 / 4"
+			}]
+		}, {
+			"endTime": "16:15",
+			"startTime": "15:45",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 30,
+						"hh": 0
+					},
+					"language": "English",
+					"description": "TBD",
+					"speakers": [{
+						"id": "harsh_dattani",
+						"companyLogo": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+						"title": "Developer Community Manager at Google Developer Relations Team, India",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/harsh.jpg?raw=true",
+						"order": 6,
+						"featured": false,
+						"company": "Google",
+						"companyLogoUrl": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+						"socials": [{
+							"link": "https://www.linkedin.com/in/harshdattani/",
+							"icon": "linkedin",
+							"name": "LinkedIn"
+						}, {
+							"name": "Twitter",
+							"link": "https://twitter.com/dattaniharsh",
+							"icon": "twitter"
+						}],
+						"country": "Bangalore, India",
+						"bio": "Harsh is a Developer Community Manager, Developer Relations Team, India, Google. Skilled in Python, Android, and Web. Strong community and social services professional with a Master of Technology (M.Tech.) focused in Cyber Security & Incident Response from Gujarat Forensic Sciences University.",
+						"shortBio": "Harsh is a Developer Community Manager, DevRel Team, Google, India",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/harsh.jpg?raw=true",
+						"name": "Harsh Dattani"
+					}],
+					"title": "Android Bundlle",
+					"track": {
+						"title": "Small ball room"
+					},
+					"id": 115,
+					"endTime": "16:15",
+					"startTime": "15:45"
+				}],
+				"gridArea": "17 / 1 / 17 / 4"
+			}]
+		}, {
+			"endTime": "16:45",
+			"startTime": "16:15",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 30,
+						"hh": 0
+					},
+					"language": "English",
+					"track": {
+						"title": "Big ball room"
+					},
+					"id": 116,
+					"title": "Practical Issues of Blockchain",
+					"description": "TBD",
+					"speakers": [{
+						"shortBio": "Rohas Nagpal is the Chief Blockchain Architect of Primechain Technologies Pvt. Ltd.",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/rohas.jpg?raw=true",
+						"name": "Rohas Nagpal",
+						"id": "rohas_nagpal",
+						"companyLogo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/Primechain-Logo.png?raw=true",
+						"title": "Chief Blockchain Architect",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/rohas.jpg?raw=true",
+						"order": 5,
+						"featured": false,
+						"company": "Primechain Technologies",
+						"companyLogoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/Primechain-Logo.png?raw=true",
+						"socials": [{
+							"link": "https://www.linkedin.com/in/rohasnagpal/",
+							"icon": "linkedin",
+							"name": "LinkedIn"
+						}, {
+							"link": "https://twitter.com/rohasnagpal",
+							"icon": "twitter",
+							"name": "Twitter"
+						}],
+						"country": "Pune, India",
+						"bio": "Rohas has 20+ years of experience in cyber crime investigation and cyber security. He co- founded Asian School of Cyber Laws in 1999 and has investigated cyber crimes & data  breaches for hundreds of organisations across most industry and Government sectors. He has assisted the Government of India in framing draft rules and regulations under the Information Technology Act. He developed an interest in virtual currencies in 2011 while investigating a case of organized criminals using bitcoin. Since 2015, he has been working extensively in the blockchain / distributed ledger technology domain."
+					}],
+					"endTime": "16:45",
+					"startTime": "16:15"
+				}, {
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 30,
+						"hh": 0
+					},
+					"speakers": [{
+						"id": "bushra",
+						"companyLogo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/mobiliya.png?raw=true",
+						"title": "Senior iOS Developer",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/thumbnail_image1.png?raw=true",
+						"order": 16,
+						"featured": false,
+						"company": "Mobiliya Technologies",
+						"companyLogoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/mobiliya.png?raw=true",
+						"socials": [{
+							"link": "https://www.linkedin.com/in/bushra-sagir-91746793/",
+							"icon": "linkedin",
+							"name": "LinkedIn"
+						}],
+						"country": "Pune, India",
+						"bio": "Bushra is a senior iOS app Developer at Mobiliya Technologies",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/thumbnail_image1.png?raw=true",
+						"name": "Bushra Sagir"
+					}],
+					"title": "Introduction to Google Smart Jacket “Jacquard”",
+					"description": "Talk would be all about what Jacquard is? How the technology is connected to the fashion and how you can interact with you phone without any screen based on different gestures implemented in the cloth and different abilities assigned to it. Then it would also contain live demo of the product and where it can be used in real life",
+					"language": "English",
+					"track": {
+						"title": "Small ball room"
+					},
+					"id": 117,
+					"endTime": "16:45",
+					"startTime": "16:15"
+				}],
+				"gridArea": "18 / 1 / 18 / 4"
+			}]
+		}, {
+			"endTime": "17:05",
+			"startTime": "16:45",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 20,
+						"hh": 0
+					},
+					"language": "English",
+					
+					"track": {
+						"title": "Big ball room"
+					},
+					"id": 118,
+					"speakers": [{
+						"shortBio": "D&I (HR) consultant at Siemens Pune",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Ketan.jpg?raw=true",
+						"name": "Ketan Kapoor B",
+						"id": "ketan_kapoor",
+						"companyLogo": "https://raw.githubusercontent.com/GDG-Pune/gdgpune_devfest/codetronaut-patch/images/logos/Siemens-Logo.png",
+						"title": "Co-Founder & Principal Consultant",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Ketan.jpg?raw=true",
+						"order": 9,
+						"featured": false,
+						"companyLogoUrl": "https://raw.githubusercontent.com/GDG-Pune/gdgpune_devfest/codetronaut-patch/images/logos/Siemens-Logo.png",
+						"socials": [{
+							"name": "LinkedIn",
+							"link": "https://www.linkedin.com/in/ketan-kapoor-b-64340320/",
+							"icon": "linkedin"
+						}, {
+							"link": "https://twitter.com/careerattop",
+							"icon": "twitter",
+							"name": "Twitter"
+						}],
+						"country": "Pune, India",
+						"bio": "",
+						"comapny": "CareerAtTop Consultancy Services"
+					}],
+					"title": "Diversity and Inclusion",
+					"description": "TBD",
+					"endTime": "17:05",
+					"startTime": "16:45"
+				}, {
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 20,
+						"hh": 0
+					},
+					"language": "English",
+					
+					"track": {
+						"title": "Small ball room"
+					},
+					"id": 119,
+					"speakers": [{
+						"shortBio": "Amey Nerkar , DSC MITAOE",
+						"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Amey.jpg?raw=true",
+						"name": "Amey Nerkar ",
+						"id": "amey_nerkar",
+						"companyLogo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/WhatsApp%20Image%202019-09-08%20at%202.25.51%20AM.jpeg?raw=true",
+						"title": "Lead",
+						"photo": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/speakers/Amey.jpg?raw=true",
+						"order": 10,
+						"featured": false,
+						"company": "DSC MITAOE",
+						"companyLogoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/logos/WhatsApp%20Image%202019-09-08%20at%202.25.51%20AM.jpeg?raw=true",
+						"socials": [{
+							"link": "https://www.linkedin.com/in/ameyinvent",
+							"icon": "linkedin",
+							"name": "LinkedIn"
+						}, {
+							"link": "https://twitter.com/amey_invent",
+							"icon": "twitter",
+							"name": "Twitter"
+						}],
+						"country": "Pune, India",
+						"bio": "Amey is a social innovator, contributing towards his community from early stage of his life, a tech enthusiast inventing for differently abled people as well, basically combining technical knowledge with his ideas for the community which is being appreciated & his impact story is being filmed by Google."
+					}],
+					"title": "Diversity and Inclusion",
+					"description": "TBD",
+					"endTime": "17:05",
+					"startTime": "16:45"
+				}],
+				"gridArea": "19 / 1 / 19 / 4"
+			}]
+		}, {
+			"endTime": "17:25",
+			"startTime": "17:05",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 20,
+						"hh": 0
+					},
+					"language": "English",
+					"track": {
+						"title": "Expo hall"
+					},
+					"id": 120,
+					"title": "Tea and Networking and Stalls Visit",
+					"description": "A great time to have some fun and meet new people",
+					"image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+					"mainTag": "General",
+					"icon": "coffee-break",
+					"speakers": [],
+					"endTime": "17:25",
+					"startTime": "17:05"
+				}],
+				"gridArea": "20 / 1 / 20 / 4"
+			}]
+		}, {
+			"endTime": "17:30",
+			"startTime": "17:20",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 10,
+						"hh": 0
+					},
+					"language": "English",
+					"speakers": [],
+					"title": "Activity",
+					"description": "Make sure you don't miss the fun activities planned by the organisers.",
+					"mainTag": "General",
+					"track": {
+						"title": "Expo hall"
+					},
+					"id": 123,
+					"endTime": "17:30",
+					"startTime": "17:20"
+				}],
+				"gridArea": "21 / 1 / 21 / 4"
+			}]
+		}, {
+			"endTime": "17:45",
+			"startTime": "17:30",
+			"sessions": [{
+				"items": [{
+					"dateReadable": "September 28",
+					"day": "2019-09-28",
+					"duration": {
+						"mm": 15,
+						"hh": 0
+					},
+					"language": "English",
+					"title": "Closing Note",
+					"description": "Make sure you won't miss closing ceremony.",
+					"image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+					"mainTag": "General",
+					"track": {
+						"title": "Expo hall"
+					},
+					"id": 121,
+					"endTime": "17:45",
+					"startTime": "17:30"
+				}],
+				"gridArea": "22 / 1 / 22 / 4"
+			}]
+		}
+	]
+	}
+}
