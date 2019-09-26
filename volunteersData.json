@@ -1,0 +1,323 @@
+{
+	"0": {
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQFm4vr_-S5sVA/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=CLYDXqI7ox0T9n4fsfZjkcxTZ3oO9_0ZM8BpPOmFDxY",
+		"socials": [{
+			"name": "LinkedIn",
+			"link": "www. linkedin.com/in/parag-ghorpade",
+			"icon": "linkedin"
+		}, {
+			"link": "https://www.facebook.com/parag.ghorpade.9",
+			"icon": "facebook",
+			"name": "Facebook"
+		}, {
+			"name": "Twitter",
+			"link": "https://twitter.com/Parag0506",
+			"icon": "twitter"
+		}],
+		"name": "Parag Ghorpade",
+		"order": 0
+	},
+	"1": {
+		"photoUrl": "https://media.licdn.com/dms/image/C4E03AQHwd1WVepCJYQ/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=T0SCos_kl5u7pKMmXra_E1-AirIo3wGEX5H8FNLnk8Y",
+		"socials": [{
+			"name": "LinkedIn",
+			"link": "https://www.linkedin.com/in/bhumikasaini",
+			"icon": "linkedin"
+		}],
+		"name": "Bhumika Saini",
+		"order": 1
+	},
+	"2": {
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQFcSZtXPItXMQ/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=5PQfkQv7wb8bkO5avP2qtOLFuWbq4PebMh_F7cD_AY4",
+		"socials": [{
+			"name": "LinkedIn",
+			"link": "https://www.linkedin.com/in/sajid-shaikh-58085915/",
+			"icon": "linkedin"
+		}],
+		"name": "Sajid Shaikh",
+		"order": 2
+	},
+	"3": {
+		"socials": [{
+			"name": "LinkedIn",
+			"url": "https://www.linkedin.com/in/dewanshrawat15/",
+			"icon": "linkedin"
+		}, {
+			"url": "https://www.facebook.com/dewanshrawat15",
+			"icon": "facebook",
+			"name": "Facebook"
+		}, {
+			"name": "Twitter",
+			"link": "https://twitter.com/dewanshrawat15",
+			"icon": "twitter"
+		}],
+		"name": "Dewansh Rawat",
+		"order": 3,
+		"photoUrl": "https://media.licdn.com/dms/image/C4E03AQHXasSTT4ibjQ/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=0aY727x0J9SwpZG-MACGavXjfy1Ss35JA_-IhHhsTkY"
+	},
+	"4": {
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQHFsJ--aRXsMg/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=o5QpVvIreF8Cv9ok9nTxogw0qofElY8-9nHQosCTwzc",
+		"socials": [{
+			"name": "LinkedIn",
+			"url": "https://www.linkedin.com/in/nitish-upadhyay-244300186",
+			"icon": "linkedin"
+		}, {
+			"name": "Twitter",
+			"url": " https://twitter.com/NitishK30157498?s=09",
+			"icon": "twitter"
+		}, {
+			"name": "Facebook",
+			"link": "https://www.facebook.com/nitish.upadhyay.3591",
+			"icon": "facebook"
+		}],
+		"name": "Nitish Kumar",
+		"order": 4
+	},
+	"5": {
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQGR804jg6iyYQ/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=c6PQzq7L80RD71pUgDBDnjrYZ_oqVo7nxVWZRhPG2D8",
+		"socials": [{
+			"link": "http://linkedin.com/in/ritika-hanchate-6876b8182",
+			"icon": "linkedin",
+			"name": "LinkedIn"
+		}, {
+			"url": "https://www.facebook.com/ritika.hanchate.7",
+			"icon": "facebook",
+			"name": "Facebook"
+		}],
+		"name": "Ritika Hanchate ",
+		"order": 5
+	},
+	"6": {
+		"order": 6,
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQFEQgYyS2aH6A/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=Lr8SZI1lqODYlbWobgPwxd1QDWH_oYS6JCZ3SBRVhDc",
+		"socials": [{
+			"link": "https://twitter.com/imsmk007",
+			"icon": "twitter",
+			"name": "Twitter"
+		}, {
+			"link": "https://www.facebook.com/profile.php?id=100009424624598",
+			"icon": "facebook",
+			"name": "Facebook"
+		}, {
+			"link": "https://www.linkedin.com/in/samyak-jain-202069143 ",
+			"icon": "linkedin",
+			"name": "LinkedIn"
+		}],
+		"name": "Samyak jain"
+	},
+	"7": {
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQHlLvqDxILJ3Q/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=cJXLVUFeHo0BBuFi_4gZb0LhG7WLUcCj5Q05D68KS7s",
+		"socials": [{
+			"name": "LinkedIn",
+			"link": "https://www.linkedin.com/in/satwik-dalvi-63895522/",
+			"icon": "linkedin"
+		}, {
+			"name": "Facebook",
+			"link": "https://www.facebook.com/satwikd",
+			"icon": "facebook"
+		}, {
+			"name": "Twitter",
+			"link": "https://twitter.com/7wikd",
+			"icon": "twitter"
+		}],
+		"name": "Satwik Dalvi",
+		"order": 7
+	},
+	"8": {
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQFWvIxpi14bwg/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=io4Wx-YM_12RKEfzOulcKtQL-4gXmcFCJjTJvkSZikU",
+		"socials": [{
+			"link": "https://www.facebook.com/nmrtmore",
+			"icon": "facebook",
+			"name": "Facebook"
+		}, {
+			"name": "LinkedIn",
+			"link": "www.linkedin.com/in/namratamore-nm",
+			"icon": "linkedin"
+		}, {
+			"link": "https://twitter.com/namratamore_nm",
+			"icon": "twitter",
+			"name": "Twitter"
+		}],
+		"name": "Namrata More",
+		"order": 8
+	},
+	"9": {
+		"order": 9,
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQFjDqdPPzyZHw/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=P3JuICDxZtw1K_udPaIJpyl00hQO4KkOWKeSX237DL0",
+		"socials": [{
+			"name": "Twitter",
+			"link": "https://twitter.com/ChourasiaMayank",
+			"icon": "twitter"
+		}, {
+			"name": "Facebook",
+			"link": "https://www.facebook.com/mayank.chourasia2",
+			"icon": "facebook"
+		}, {
+			"name": "LinkedIn",
+			"link": "https://www.linkedin.com/in/mayank-chourasia-38421a134/",
+			"icon": "linkedin"
+		}],
+		"name": "Mayank Chourasia"
+	},
+	"10": {
+		"phtoUrl": "https://media.licdn.com/dms/image/C5103AQHDdOfNhoAtsw/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=uBbm2Z-LlG63mU_asi3eOfTtKK6Eh3NiKovhn2E6MZQ",
+		"order": 10,
+		"socials": [{
+			"link": "https://www.linkedin.com/in/patil-shreyas",
+			"icon": "linkedin",
+			"name": "LinkedIn"
+		}, {
+			"link": "https://twitter.com/imShreyasPatil",
+			"icon": "twitter",
+			"name": "Twitter"
+		}, {
+			"link": "https://www.facebook.com/shreyaspatil99",
+			"icon": "facebook",
+			"name": "Facebook"
+		}],
+		"name": "Shreyas Patil"
+	},
+	"11": {
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQEUdtbN-c-exg/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=glnKxo7NO0lzC5uloEbum-bE-t_4Bf3ozA3UmP5jCm8",
+		"socials": [{
+			"link": "https://www.linkedin.com/in/samarth-singh-thakur-7b1657167",
+			"icon": "linkedin",
+			"name": "LinkedIn"
+		}],
+		"name": "Samarth Singh Thakur",
+		"order": 11
+	},
+	"12": {
+		"order": 12,
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQFOiVhpwwRZnQ/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=ttdVJcjkhMYsVIwC_CSa_nz1pO1ZRA5HzdsBNL7aj0E",
+		"name": "Sachpreet Singh"
+	},
+	"13": {
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQF8NTqk7mL0tg/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=3EGexx5cCAEr6Xxl0RMf4qLTk3k13-8oetj649tmMcs",
+		"name": "Parth Aradhye",
+		"order": 13
+	},
+	"14": {
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQFx5BeD5Ucyrg/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=FXzK42qH22kSD-TT7B355yoA_nK2o58r8B-hXKwrg8Y",
+		"name": "Vansh Bhasin",
+		"order": 14
+	},
+	"15": {
+		"name": "Ameya Odak",
+		"order": 15
+	},
+	"16": {
+		"name": "Shivani Shinde",
+		"order": 16,
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQE1l1vbo4nPGg/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=aHuTv4imUXhZ7gkDe5jDjhF7D6CXNBfUzk4_LL4XE6M"
+	},
+	"17": {
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQGv0HnxEA3tJw/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=jMloUYwyERI_l804QuWS1t1WiD0RcygCtA2eEsQvw6c",
+		"name": "Garima Yadav",
+		"order": 17
+	},
+	"18": {
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQE_yGFhzG4dEg/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=KDISrrsMJo0iVMpVQBBvH4wtwS4D4C6tkhrUdLxSfuw",
+		"name": "Juhi Shelar",
+		"order": 18
+	},
+	"19": {
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQFnrTQKS64I8A/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=vZpNHzGhZvxTCTTWPwzAyl0Oy-Bjn3C627HldDF7ziE",
+		"name": "Sakshi Doshi",
+		"order": 19
+	},
+	"20": {
+		"name": "Sparsh Tandon",
+		"order": 20,
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQGQEXecGUDFlQ/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=NlL_mcmcu1h7dzexUKxENWFk9MbB3dg9djGiceAeUp8"
+	},
+	"21": {
+		"name": "Anmol",
+		"order": 21,
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQFSRl-9Bw9BLA/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=uSEmiul38AQmkLe-qou_exs0VeDjeTvqI_8Wssti0lU"
+	},
+	"22": {
+		"photoUrl": "https://media.licdn.com/dms/image/C4D03AQHmhlmHitYx6w/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=ad9ebwjh4tDOi31KeHxzMzqMi41Z3La8kDcg4kWYydo",
+		"name": "Hitesh Roy",
+		"order": 22
+	},
+	"23": {
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQFiB6GVHmLcXg/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=a2Oy41gHQl9Nth2nE3TKoNmb0GhSj7RkWdZbc23vlpc",
+		"name": "Sudesh Pawar",
+		"order": 23
+	},
+	"24": {
+		"name": "Akash Lende",
+		"order": 24
+	},
+	"25": {
+		"order": 25,
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQFkm7Eg4G1Vtw/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=vqnesMl_tL8slRFycjNzHEpcxR7G8P2TE2nxX74QLyQ",
+		"name": "Faizan Akhtar"
+	},
+	"26": {
+		"photoUrl": "https://media.licdn.com/dms/image/C4E03AQE_Cpvl78wJBA/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=ybAWF9rvDCKeZ6xcBO3VSoJ0Od3j0g5kH8-nkD-62xU",
+		"name": "Shrutika",
+		"order": 26
+	},
+	"27": {
+		"order": 27,
+		"photoUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"name": "Divyansh Singh "
+	},
+	"28": {
+		"order": 28,
+		"name": "Shivani Amborkar"
+	},
+	"29": {
+		"name": "Saurabh Mirajkar",
+		"order": 29
+	},
+	"30": {
+		"name": "Chinmay Relkar",
+		"order": 30
+	},
+	"31": {
+		"order": 31,
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQEK1CXOIEPAiA/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=ElYueZa1DE9xDnHuzN1SSLFGKSKN-ay_dPAN2pFduoQ",
+		"name": "Prathamesh More"
+	},
+	"32": {
+		"order": 32,
+		"name": "Pratham Khandelwal"
+	},
+	"33": {
+		"name": "Shubham Agarwal",
+		"order": 33
+	},
+	"34": {
+		"order": 34,
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQFVhTxty9dsPw/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=hMYoIhV3IFWIZWTFrTOljQwmextgoXDZEpVYUITUk9c",
+		"name": "Hitesh Shimpi "
+	},
+	"35": {
+		"name": "Somesh Tanwani",
+		"order": 35
+	},
+	"36": {
+		"order": 36,
+		"name": "Santosh Vijapure"
+	},
+	"37": {
+		"name": "Amit Gujar",
+		"order": 37
+	},
+	"38": {
+		"name": "Hitesh Chordiya",
+		"order": 38
+	},
+	"39": {
+		"photoUrl": "https://media.licdn.com/dms/image/C5103AQEobhbEfZYTIw/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=g90Hz0h3b_fe150udNFt50X4duZWyoRsN5cT_M_29OU",
+		"name": "Varun Srivastava",
+		"order": 39
+	},
+	"40": {
+		"order": 40,
+		"name": "Tanmay Shelar"
+	}
+}

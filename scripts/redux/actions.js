@@ -504,6 +504,13 @@ const _getTeamMembers = (teamId) => firebase.firestore()
         .map((snap) => Object.assign({}, snap.data(), { id: snap.id }))
     );
 
+const _getVolunteersMembers = (volunteersId) => firebase.firestore()
+    .collection('volunteers').doc(volunteersId).collection('members').orderBy('order', 'asc')
+    .get()
+    .then((snaps) => snaps.docs
+        .map((snap) => Object.assign({}, snap.data(), { id: snap.id }))
+    );
+
 const teamActions = {
   fetchTeam: () => (dispatch) => {
     dispatch({
@@ -534,6 +541,42 @@ const teamActions = {
         .catch((error) => {
           dispatch({
             type: FETCH_TEAM_FAILURE,
+            payload: { error },
+          });
+        });
+  },
+};
+
+const volunteersActions = {
+  fetchVolunteers: () => (dispatch) => {
+    dispatch({
+      type: FETCH_VOLUNTEERS,
+    });
+
+    firebase.firestore()
+        .collection('volunteers')
+        .get()
+        .then((snaps) => Promise.all(
+            snaps.docs.map((snap) => Promise.all([
+              snap.data(),
+              snap.id,
+              _getVolunteersMembers(snap.id),
+            ]))
+        ))
+        .then((volunteers) => volunteers.map(([volunteers, id, members]) => {
+          return Object.assign({}, volunteers, { id, members });
+        }))
+        .then((list) => {
+          dispatch({
+            type: FETCH_VOLUNTEERS_SUCCESS,
+            payload: {
+              list,
+            },
+          });
+        })
+        .catch((error) => {
+          dispatch({
+            type: FETCH_VOLUNTEERS_FAILURE,
             payload: { error },
           });
         });

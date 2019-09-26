@@ -1,0 +1,120 @@
+{
+	"0": {
+		"title": "Sponsorship",
+		"photo": "https://drive.google.com/file/d/1kowQULJXYW6b6xia-k5gKOHZMTOnylQc/view",
+		"order": 0,
+		"photoUrl": "https://drive.google.com/file/d/1kowQULJXYW6b6xia-k5gKOHZMTOnylQc/view",
+		"name": "Parag Ghorpade",
+		"socials": [{
+			"name": "LinkedIn",
+			"link": "www.linkedin.com/in/parag-ghorpade",
+			"icon": "linkedin"
+		}, {
+			"name": "Facebook",
+			"link": "https://www.facebook.com/parag.ghorpade.9",
+			"icon": "facebook"
+		}, {
+			"name": "Twitter",
+			"link": "https://twitter.com/Parag0506",
+			"icon": "twitter"
+		},
+		{
+			"name": "Instagram",
+			"link": "https://www.instagram.com/parag.ghorpade/",
+			"icon": "instagram"
+		},
+	]
+	},
+	"1": {
+		"title": "Sponsorship",
+		"photo": "https://drive.google.com/file/d/1amIpJE_HYr8g1xGf7PZHC2yJ1-2y9JNr/view",
+		"order": 4,
+		"photoUrl": "https://drive.google.com/file/d/1amIpJE_HYr8g1xGf7PZHC2yJ1-2y9JNr/view",
+		"name": "Bhumika Saini",
+		"socials": [{
+			"link": "https://www.linkedin.com/in/bhumikasaini",
+			"icon": "linkedin",
+			"name": "LinkedIn"
+		},]
+	},
+	"2": {
+		"title": "Website",
+		"photo": "/images/people/vitaliy_zasadnyy.jpg",
+		"order": 1,
+		"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/core/rajat.jpeg?raw=true",
+		"name": "Dewansh Rawat",
+		"socials": [{
+			"link": "https://www.linkedin.com/in/rajatkabade/",
+			"icon": "linkedin",
+			"name": "Linkedin"
+		}, {
+			"name": "Facebook",
+			"link": "https://www.facebook.com/rajat.kabade",
+			"icon": "facebook"
+		}, {
+			"name": "Twitter",
+			"link": "https://twitter.com/RajatKabade",
+			"icon": "twitter"
+		}]
+	},
+	"3": {
+		"title": "GDG Pune Co Organizer",
+		"photo": "/images/people/marta_maxymiak.jpg",
+		"order": 2,
+		"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/core/swapnil.jpg?raw=true",
+		"name": "Swapnil Jathar ",
+		"socials": [{
+			"name": "Twitter",
+			"link": "https://www.linkedin.com/in/swapniljathar/",
+			"icon": "linkedin"
+		}, {
+			"name": "facebook",
+			"link": "https://www.facebook.com/swap.jathar",
+			"icon": "facebook"
+		}, {
+			"name": "LinkedIn",
+			"link": "https://twitter.com/swapniljathar",
+			"icon": "twitter"
+		}]
+	},
+	"4": {
+		"photoUrl": "https://github.com/GDG-Pune/gdgpune_devfest/blob/codetronaut-patch/images/core/pranoti.jpg?raw=true",
+		"name": "Pranoti Nandurkar ",
+		"socials": [{
+			"name": "LinkedIn",
+			"link": "https://www.linkedin.com/in/pranoti-nandurkar-170021b/",
+			"icon": "linkedin"
+		}, {
+			"name": "Facebook",
+			"link": "https://www.facebook.com/pranoti.nandurkar",
+			"icon": "facebook"
+		}, {
+			"link": "https://twitter.com/pranotinandurka",
+			"icon": "twitter",
+			"name": "Twitter"
+		}],
+		"title": "WTM Pune Ambassador",
+		"photo": "/images/people/ostap_andrusiv.jpg",
+		"order": 3
+	},
+	"6": {
+		"order": 5,
+		"photoUrl": "https://raw.githubusercontent.com/GDG-Pune/gdgpune_devfest/master/images/core/WhatsApp%20Image%202019-09-11%20at%2010.38.39%20AM.jpeg",
+		"name": "Gautam Chitnis",
+		"socials": [{
+			"link": "https://www.linkedin.com/in/gautam-chitnis/",
+			"icon": "linkedin",
+			"name": "LinkedIn"
+		}, {
+			"name": "Facebook",
+			"link": "https://www.facebook.com/gautamchitnis",
+			"icon": "facebook"
+		}, {
+			"link": "https://twitter.com/gautamchitnis",
+			"icon": "twitter",
+			"name": "Twitter"
+		}],
+		"title": "GDG Cloud Pune Co Organizer",
+		"photo": ""
+	}
+}
