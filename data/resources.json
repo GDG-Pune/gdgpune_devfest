@@ -3,7 +3,7 @@
   "description": "From the community, to the community!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, gdgpune, pune, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 28, 2019",
+  "dates": "",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
   "followUs": "Follow us",
@@ -107,7 +107,7 @@
     "save": "Save ${discount}% today"
   },
   "partnersBlock": {
-    "title": "Partners",
+    "title": "Partners & Sponsors - Devfest Pune 2019",
     "button": "Become a partner",
     "form": {
       "title": "Become a partner!",
@@ -127,7 +127,7 @@
     "previousYear": "Year"
   },
   "speakersBlock": {
-    "title": "Featured Speakers",
+    "title": "Devfest Pune 2019 Speakers",
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers/"
