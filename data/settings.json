@@ -55,8 +55,8 @@
     },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "This year's DevFest will host a wide array of speakers from various technology domains. Meet them during the conference and build your network, clarify your doubts and enhance your expertise.",
-      "description": "This year's DevFest will host a wide array of speakers from various technology domains. Meet them during the conference and build your network, clarify your doubts and enhance your expertise.",
+      "metaDescription": "Speakers at DevFests range from experienced developers to budding leaders of local tech communities all over the world. The individuals that speak at DevFest often drive technical conversations within their companies, cities, countries, and worldwide. At a DevFest near you, expect talks from Googlers, Google Developer Experts, leading engineers, developers, and problem solvers in your own technical communities.",
+      "description": "Speakers at DevFests range from experienced developers to budding leaders of local tech communities all over the world. The individuals that speak at DevFest often drive technical conversations within their companies, cities, countries, and worldwide. At a DevFest near you, expect talks from Googlers, Google Developer Experts, leading engineers, developers, and problem solvers in your own technical communities.",
       "background": {
         "color": "#FFF"
       },
