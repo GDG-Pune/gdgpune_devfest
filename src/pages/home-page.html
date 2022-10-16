@@ -146,7 +146,7 @@
       hide-logo
     >
       <div class="home-content" layout vertical center>
-        <plastic-image class="hero-logo" srcset="https://raw.githubusercontent.com/GDG-Pune/gdgpune_devfest/codetronaut-patch/images/devfest-logo.png" alt="{$ title $}"></plastic-image>
+        <plastic-image class="hero-logo" srcset="images/devfest-logo.png" alt="{$ title $}"></plastic-image>
         <div class="info-items highlight-font">
           <div class="info-item">{$ location.city $}. {$ dates $}</div>
           <div class="info-item">{$ heroSettings.home.description $}</div>
@@ -174,10 +174,10 @@
             primary event
           >
             <iron-icon icon="hoverboard:website"></iron-icon>
-            {$ callSpeaker $}
+            <b>{$ callSpeaker $}</b>
           </paper-button>
           </a>
-          <a target="_blank" href="http://bit.ly/DevFestPune2019Volunteers">
+          <!-- <a target="_blank" href="http://bit.ly/DevFestPune2019Volunteers">
           <paper-button
             ga-on="click"
             ga-event-category="video"
@@ -188,7 +188,7 @@
             <iron-icon icon="hoverboard:website"></iron-icon>
             {$ callVolunteer $}
           </paper-button>
-          </a>
+          </a> -->
           <!-- <paper-button
             on-tap="_scrollToTickets"
             ga-on="click"
