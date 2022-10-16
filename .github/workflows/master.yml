@@ -19,8 +19,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: "16.x"
-      - run: npm install
-      # This triggers `gatsby build` script in "package.json"
+      - run: npm install --legacy-peer-deps
       - run: npm run build:prod
       - uses: actions/upload-artifact@v2
         with:
