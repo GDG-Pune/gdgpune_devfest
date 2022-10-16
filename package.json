@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "autotrack": "^2.4.1",
+    "polymer-analyzer": "^3.2.4",
     "redux": "^3.7.2",
     "redux-thunk": "^2.3.0"
   },
