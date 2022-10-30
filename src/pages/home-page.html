@@ -39,7 +39,18 @@
 
       .info-items {
         margin: 24px auto;
-        font-size: 22px;
+        font-size: 10px;
+        font-weight: bold;
+        text-decoration: none;
+        /* color: #fff; */
+      }
+
+      a {
+        color: white
+      }
+
+      .info-item {
+        padding: 3px;
       }
 
       .info-items > *:not(:first-of-type) {
@@ -116,6 +127,10 @@
           transform: translateX(-50%);
           z-index: 2;
         }
+
+        .info-items {
+          font-size: 20px;
+        }
       }
 
       @media (min-width: 812px) {
@@ -128,9 +143,9 @@
         }
 
         .info-items {
-          margin: 48px auto;
-          font-size: 28px;
-          line-height: 1.1;
+          margin: 35px auto;
+          font-size: 20px;
+          line-height: 1;
         }
       }
     </style>
@@ -148,8 +163,14 @@
       <div class="home-content" layout vertical center>
         <plastic-image class="hero-logo" srcset="images/devfest-logo.png" alt="{$ title $}"></plastic-image>
         <div class="info-items highlight-font">
-          <div class="info-item">{$ location.city $}. {$ dates $}</div>
-          <div class="info-item">{$ heroSettings.home.description $}</div>
+          <div class="info-item">
+            <iron-icon src="./images/location.png"></iron-icon>
+            <a href="https://www.google.com/maps/place/JW+Marriott+Hotel+Pune/@18.5324437,73.8274491,17z/data=!4m18!1m9!3m8!1s0x3bc2bf8a959a0e4b:0x9634475031078c60!2sJW+Marriott+Hotel+Pune!5m2!4m1!1i2!8m2!3d18.5324386!4d73.8296378!3m7!1s0x3bc2bf8a959a0e4b:0x9634475031078c60!5m2!4m1!1i2!8m2!3d18.5324386!4d73.8296378?hl=en-GB"> {$ location.address $} </a>
+          </div>
+          <div class="info-item">
+            <iron-icon src="./images/calendar.png"></iron-icon>
+            {$ date $}
+          </div>
         </div>
 
 
