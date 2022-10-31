@@ -4,6 +4,7 @@
     "twitter": "gdgpune",
     "url": "https://gdg-pune-devfest19.firebaseapp.com"
   },
+  "date": "Sunday, 11th December 2022",
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
   "webapp": {
@@ -98,9 +99,9 @@
   "location": {
     "label": "Location",
     "name": "Planeta kino",
-    "city": "Coming Soon",
+    "city": "Pune",
     "short": "Pune, Maharashtra",
-    "address": "The Westin Pune Koregaon Park, Mundhwa Rd, Koregaon Park Annexe",
+    "address": "JW Marriott Hotel, Pune",
     "pointer": {
       "latitude": 18.5392225,
       "longitude": 73.9059254,
